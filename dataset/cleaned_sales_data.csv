@@ -1,0 +1,1001 @@
+OrderID,CustomerName,Phone,State,Product,Price,Quantity,OrderDate,PaymentStatus,Email
+1,CHINEDU OKAFOR,08041849539,PORT HARCOURT,samsung phone,,1.0,Nov 02 2024,failed,chinedu@email.com
+2,janet olawale,08028915945,KADUNA,samsung phone,,1.0,05-10-2024,pending,chinedu@email.com
+3,janet olawale,,ENUGU,hp laptop,,1.0,14-10-2024,paid,kingsley@mail.com
+4,ferdinand nwoke,08090746007,LAGOS,hp laptop,,1.0,14-10-2024,pending,chika@mail.com
+5,CHINEDU OKAFOR,08064825289,ABUJA,hp laptop,,3.0,10/11/2024,pending,chika@mail.com
+6,joy okafor,08065133325,PORT HARCOURT,infinix phone,,3.0,2024-11-29,paid,unkwoknemail@gmail.com
+7,amaka obinna,08046246872,KADUNA,hp laptop,,1.0,19-10-2024,paid,chinedu@email.com
+8,ferdinand nwoke,08053848527,PORT HARCOURT,iphone x,,3.0,2024-10-07,paid,abdul@mail
+9,janet olawale,08001797745,ABUJA,samsung phone,,1.0,08-11-2024,failed,chinedu@email.com
+10,Blessing Okorie,08097726773,JOS,samsung phone,,1.0,Nov 30 2024,paid,unkwoknemail@gmail.com
+11,sarah ben,,LAGOS,samsung phone,,1.0,2024/10/15,pending,sarah@mail
+12,amaka obinna,,KADUNA,samsung phone,,2.0,11/11/2024,paid,adefemi@mail
+13,ABDUL BELLO,,JOS,samsung phone,,1.0,16/10/2024,paid,kingsley@mail.com
+14,CHINEDU OKAFOR,,JOS,hp laptop,,1.0,2024-10-02,paid,amina@email.com
+15,janet olawale,,JOS,hp laptop,,1.0,Nov 16 2024,pending,sarah@mail
+16,amaka obinna,08061924121,ENUGU,hp laptop,,2.0,07-10-2024,failed,kingsley@mail.com
+17,TUNDE BAKARE,08091485861,PORT HARCOURT,airpods,,1.0,2024-11-04,pending,emeka@mail.com
+18,adebayo femi,,PORT HARCOURT,infinix phone,,1.0,19/10/2024,paid,oluchioke@mail
+19,joy okafor,08096011435,ABUJA,airpods,,1.0,2024/10/14,paid,blessing@mail.com
+20,amina ibrahim,,KADUNA,airpods,,3.0,Oct 07 2024,paid,unkwoknemail@gmail.com
+21,sarah ben,,LAGOS,samsung phone,,1.0,17-10-2024,pending,janet@mail.com
+22,oluchi oke,,LAGOS,airpods,,1.0,02-10-2024,pending, no email
+23,Michael Peters,08017857913,PORT HARCOURT,airpods,,2.0,24-10-2024,paid,abdul@mail
+24,gbenga isaac,,LAGOS,iphone x,,1.0,11-10-2024,paid, no email
+25,oluchi oke,,KADUNA,samsung phone,,3.0,16-10-2024,paid, no email
+26,Michael Peters,08056641464,JOS,samsung phone,,1.0,2024/11/29,pending,sarah@mail
+27,ferdinand nwoke,08063422205,LAGOS,infinix phone,,1.0,Oct 27 2024,paid,adefemi@mail
+28,ferdinand nwoke,08041499395,KADUNA,infinix phone,,2.0,Nov 07 2024,failed,unkwoknemail@gmail.com
+29,ferdinand nwoke,,JOS,airpods,,3.0,09-11-2024,pending, no email
+30,VICTOR ADE,,LAGOS,airpods,,1.0,2024-10-09,paid,unkwoknemail@gmail.com
+31,Michael Peters,08027449762,ENUGU,airpods,,3.0,09-11-2024,paid,unkwoknemail@gmail.com
+32,CHINEDU OKAFOR,08029621722,ENUGU,iphone x,,3.0,13/10/2024,paid,oluchioke@mail
+33,gbenga isaac,,LAGOS,iphone x,,3.0,2024-10-20,paid,unkwoknemail@gmail.com
+34,sarah ben,,KADUNA,airpods,,2.0,Oct 20 2024,paid,danokoro@mail
+35,amina ibrahim,08036631619,LAGOS,airpods,,1.0,2024-10-26,pending,kingsley@mail.com
+36,musa danjuma,,PORT HARCOURT,iphone x,,3.0,2024/10/31,pending,emeka@mail.com
+37,FAITH JOHN,08044790466,ABUJA,iphone x,,1.0,2024-11-20,failed,blessing@mail.com
+38,adebayo femi,08067001270,KADUNA,hp laptop,,2.0,2024/10/26,pending,esther@mail.com
+39,Chinedu Okafor,08049851196,KADUNA,iphone x,,3.0,2024-10-22,paid,adefemi@mail
+40,adebayo femi,,PORT HARCOURT,infinix phone,,1.0,2024/11/15,failed,musa@mail.com
+41,janet olawale,08031943391,LAGOS,infinix phone,,3.0,Nov 04 2024,pending,blessing@mail.com
+42,ferdinand nwoke,08039384168,LAGOS,hp laptop,,2.0,22-10-2024,failed,amaka@
+43,EMEKA UZO,08025904029,ABUJA,hp laptop,,1.0,2024/10/06,pending, no email
+44,EMEKA UZO,08026035513,ENUGU,samsung phone,,2.0,Oct 01 2024,paid,danokoro@mail
+45,Chinedu Okafor,,ENUGU,iphone x,,2.0,25/11/2024,paid,musa@mail.com
+46,ifeoma igwe,08026196082,JOS,airpods,,2.0,02-10-2024,paid,danokoro@mail
+47,oluchi oke,08004038667,ABUJA,infinix phone,,1.0,2024-11-05,failed,unkwoknemail@gmail.com
+48,adebayo femi,08041812340,LAGOS,hp laptop,,1.0,Nov 03 2024,pending,adefemi@mail
+49,oluchi oke,08094309131,PORT HARCOURT,iphone x,,1.0,08-11-2024,pending,adefemi@mail
+50,KINGSLEY ONU,08026753212,KADUNA,samsung phone,,1.0,Oct 07 2024,pending,musa@mail.com
+51,sarah ben,,ENUGU,infinix phone,,2.0,25/11/2024,failed,esther@mail.com
+52,Blessing Okorie,,ABUJA,airpods,,3.0,26/10/2024,pending,esther@mail.com
+53,CHIKA ONUOHA,,JOS,hp laptop,,2.0,2024-11-14,failed,faith@gmail.com
+54,FAITH JOHN,,ENUGU,iphone x,,1.0,2024-10-20,failed,blessing@mail.com
+55,janet olawale,,KADUNA,infinix phone,,3.0,Oct 02 2024,failed,janet@mail.com
+56,EMEKA UZO,,KADUNA,iphone x,,1.0,Nov 09 2024,pending,musa@mail.com
+57,ESTHER JOHN,,LAGOS,hp laptop,,3.0,Oct 16 2024,failed,blessing@mail.com
+58,daniel okoro,,PORT HARCOURT,iphone x,,1.0,2024-10-19,pending,amaka@
+59,EMEKA UZO,,ENUGU,hp laptop,,2.0,04/10/2024,pending,adefemi@mail
+60,GRACE DANIEL,08023740127,LAGOS,samsung phone,,1.0,18-10-2024,pending,unkwoknemail@gmail.com
+61,ABDUL BELLO,,JOS,iphone x,,3.0,17/11/2024,pending,kingsley@mail.com
+62,VICTOR ADE,08072764093,ABUJA,iphone x,,2.0,2024-10-23,failed,unkwoknemail@gmail.com
+63,gbenga isaac,08031909061,KADUNA,airpods,,2.0,25/11/2024,pending,kingsley@mail.com
+64,EMEKA UZO,08047992398,ENUGU,hp laptop,,1.0,2024/11/07,pending,kingsley@mail.com
+65,FAITH JOHN,08064102765,KADUNA,airpods,,1.0,30-11-2024,paid,faith@gmail.com
+66,TUNDE BAKARE,08063325442,ABUJA,samsung phone,,1.0,2024-10-23,failed,chika@mail.com
+67,EMEKA UZO,,LAGOS,airpods,,1.0,28-11-2024,pending,unkwoknemail@gmail.com
+68,joy okafor,08082525495,LAGOS,samsung phone,,1.0,23-10-2024,failed,unkwoknemail@gmail.com
+69,ferdinand nwoke,08048751253,KADUNA,hp laptop,,1.0,2024-11-18,pending,adefemi@mail
+70,oluchi oke,08006086828,PORT HARCOURT,iphone x,,3.0,Nov 21 2024,pending,oluchioke@mail
+71,Chinedu Okafor,08042788803,KADUNA,hp laptop,,3.0,19/10/2024,pending,musa@mail.com
+72,oluchi oke,08097041348,JOS,airpods,,1.0,2024/10/04,paid,unkwoknemail@gmail.com
+73,janet olawale,,ABUJA,samsung phone,,1.0,2024/11/07,paid,danokoro@mail
+74,TUNDE BAKARE,08069558210,LAGOS,airpods,,1.0,2024-10-10,pending,janet@mail.com
+75,janet olawale,08059328146,JOS,infinix phone,,1.0,2024/11/26,failed,chika@mail.com
+76,CHIKA ONUOHA,,KADUNA,iphone x,,1.0,04-11-2024,pending,danokoro@mail
+77,janet olawale,08028282216,PORT HARCOURT,samsung phone,,1.0,18-11-2024,failed,gbenga@
+78,amaka obinna,08057869599,KADUNA,iphone x,,3.0,Nov 24 2024,pending,blessing@mail.com
+79,adebayo femi,08029656436,KADUNA,samsung phone,,1.0,05/11/2024,paid,emeka@mail.com
+80,janet olawale,08012505134,PORT HARCOURT,airpods,,3.0,Oct 20 2024,pending,oluchioke@mail
+81,Blessing Okorie,08064377855,LAGOS,airpods,,1.0,2024-11-27,paid,gbenga@
+82,adebayo femi,,LAGOS,iphone x,,2.0,2024-10-16,pending,chinedu@email.com
+83,ESTHER JOHN,08077633354,KADUNA,hp laptop,,1.0,2024-10-02,failed,amaka@
+84,daniel okoro,,KADUNA,iphone x,,1.0,2024-11-17,pending,unkwoknemail@gmail.com
+85,Chinedu Okafor,08048248540,ABUJA,iphone x,,3.0,31/10/2024,failed,unkwoknemail@gmail.com
+86,Michael Peters,08064846417,LAGOS,iphone x,,1.0,11-11-2024,failed,blessing@mail.com
+87,musa danjuma,08068795170,LAGOS,hp laptop,,1.0,2024/11/19,pending,abdul@mail
+88,CHIKA ONUOHA,08095913845,ABUJA,airpods,,1.0,04/11/2024,pending,amaka@
+89,VICTOR ADE,08002712566,PORT HARCOURT,airpods,,1.0,04/10/2024,paid,no email
+90,musa danjuma,,KADUNA,infinix phone,,1.0,2024-11-10,failed,abdul@mail
+91,Blessing Okorie,,PORT HARCOURT,samsung phone,,1.0,20/11/2024,pending,unkwoknemail@gmail.com
+92,adebayo femi,08098245309,JOS,iphone x,,1.0,Nov 29 2024,paid,unkwoknemail@gmail.com
+93,daniel okoro,,LAGOS,samsung phone,,1.0,2024-10-06,pending,abdul@mail
+94,VICTOR ADE,,JOS,infinix phone,,2.0,2024-10-26,pending,chika@mail.com
+95,TUNDE BAKARE,08055516602,ABUJA,hp laptop,,3.0,2024/11/08,pending,oluchioke@mail
+96,Michael Peters,08014822151,KADUNA,airpods,,3.0,Nov 25 2024,pending,chinedu@email.com
+97,joy okafor,,JOS,iphone x,,1.0,2024/10/27,failed,esther@mail.com
+98,amaka obinna,08008676189,ENUGU,infinix phone,,1.0,2024/11/22,failed,amaka@
+99,Chinedu Okafor,08075293649,LAGOS,airpods,,2.0,2024-10-10,failed, no email
+100,ifeoma igwe,08043522050,KADUNA,hp laptop,,3.0,2024/11/26,pending,chika@mail.com
+101,ifeoma igwe,,LAGOS,iphone x,,3.0,2024/10/15,paid,kingsley@mail.com
+102,sarah ben,08093164486,ENUGU,iphone x,,2.0,2024/11/19,failed,amina@email.com
+103,VICTOR ADE,08076016624,KADUNA,airpods,,3.0,2024/10/31,failed,amina@email.com
+104,VICTOR ADE,,PORT HARCOURT,iphone x,,3.0,28-11-2024,paid, no email
+105,amaka obinna,,JOS,airpods,,2.0,2024/10/12,failed,oluchioke@mail
+106,adebayo femi,08058994599,JOS,samsung phone,,1.0,2024-11-29,pending,emeka@mail.com
+107,EMEKA UZO,,LAGOS,samsung phone,,3.0,05/11/2024,pending,abdul@mail
+108,sarah ben,,ABUJA,hp laptop,,1.0,27/11/2024,paid,adefemi@mail
+109,Michael Peters,08081544833,ABUJA,samsung phone,,1.0,23/10/2024,pending,gbenga@
+110,ABDUL BELLO,,LAGOS,hp laptop,,1.0,Nov 22 2024,paid,danokoro@mail
+111,daniel okoro,08052919441,JOS,airpods,,1.0,2024-11-21,pending,chinedu@email.com
+112,TUNDE BAKARE,,PORT HARCOURT,infinix phone,,2.0,2024-10-23,paid,faith@gmail.com
+113,CHINEDU OKAFOR,08007260716,LAGOS,samsung phone,,1.0,2024/10/10,paid,unkwoknemail@gmail.com
+114,musa danjuma,08019684887,PORT HARCOURT,iphone x,,1.0,2024/11/14,pending,sarah@mail
+115,daniel okoro,,PORT HARCOURT,samsung phone,,2.0,2024/10/13,paid,unkwoknemail@gmail.com
+116,ifeoma igwe,,KADUNA,hp laptop,,1.0,14/11/2024,failed,esther@mail.com
+117,Michael Peters,08087529543,LAGOS,infinix phone,,1.0,Oct 10 2024,paid,amina@email.com
+118,ABDUL BELLO,08076968613,PORT HARCOURT,iphone x,,3.0,Nov 23 2024,failed,amina@email.com
+119,oluchi oke,,PORT HARCOURT,airpods,,1.0,29-11-2024,paid,unkwoknemail@gmail.com
+120,sarah ben,08086493705,LAGOS,airpods,,2.0,Nov 10 2024,pending,musa@mail.com
+121,Blessing Okorie,08049483104,ABUJA,hp laptop,,3.0,2024/10/08,pending,unkwoknemail@gmail.com
+122,EMEKA UZO,08066122004,JOS,iphone x,,3.0,11-11-2024,pending,chika@mail.com
+123,gbenga isaac,08022916654,PORT HARCOURT,hp laptop,,3.0,30-11-2024,paid,adefemi@mail
+124,CHIKA ONUOHA,08057542716,ABUJA,iphone x,,2.0,16/10/2024,pending,abdul@mail
+125,amaka obinna,,PORT HARCOURT,airpods,,2.0,30/11/2024,failed,blessing@mail.com
+126,CHINEDU OKAFOR,08082045134,LAGOS,iphone x,,2.0,Nov 27 2024,pending,no email
+127,daniel okoro,08023631354,JOS,samsung phone,,1.0,21/11/2024,pending,musa@mail.com
+128,adebayo femi,08006699575,LAGOS,iphone x,,2.0,29/10/2024,paid,chinedu@email.com
+129,gbenga isaac,,KADUNA,airpods,,3.0,28-10-2024,pending,blessing@mail.com
+130,gbenga isaac,08031482427,LAGOS,samsung phone,,3.0,Oct 18 2024,failed,abdul@mail
+131,Michael Peters,08001590557,JOS,samsung phone,,2.0,04-11-2024,paid,musa@mail.com
+132,amina ibrahim,,PORT HARCOURT,samsung phone,,1.0,2024-10-21,pending,musa@mail.com
+133,ESTHER JOHN,08085320351,ABUJA,iphone x,,1.0,2024/10/16,paid,oluchioke@mail
+134,CHIKA ONUOHA,08018010113,PORT HARCOURT,hp laptop,,1.0,Nov 25 2024,pending,amina@email.com
+135,amaka obinna,08093519785,ABUJA,samsung phone,,1.0,Oct 12 2024,paid,danokoro@mail
+136,janet olawale,,PORT HARCOURT,iphone x,,2.0,2024-10-24,paid,esther@mail.com
+137,musa danjuma,08067767929,ENUGU,iphone x,,2.0,2024/10/04,paid,sarah@mail
+138,amina ibrahim,,KADUNA,iphone x,,1.0,02/11/2024,pending,no email
+139,CHINEDU OKAFOR,,PORT HARCOURT,iphone x,,1.0,Nov 01 2024,pending,danokoro@mail
+140,ESTHER JOHN,08094010546,LAGOS,samsung phone,,3.0,2024-11-08,pending,amina@email.com
+141,gbenga isaac,,ABUJA,airpods,,1.0,2024/11/01,pending,janet@mail.com
+142,Chinedu Okafor,08068163528,LAGOS,hp laptop,,3.0,2024/10/04,paid,unkwoknemail@gmail.com
+143,sarah ben,,PORT HARCOURT,iphone x,,1.0,19-11-2024,paid,kingsley@mail.com
+144,oluchi oke,,PORT HARCOURT,airpods,,1.0,2024-10-07,failed,janet@mail.com
+145,CHIKA ONUOHA,,PORT HARCOURT,samsung phone,,1.0,18/11/2024,paid,amaka@
+146,CHINEDU OKAFOR,,KADUNA,iphone x,,1.0,08/11/2024,paid,faith@gmail.com
+147,TUNDE BAKARE,08010144826,JOS,hp laptop,,1.0,08-10-2024,paid,unkwoknemail@gmail.com
+148,gbenga isaac,08059556075,LAGOS,airpods,,1.0,14-11-2024,paid,no email
+149,musa danjuma,,KADUNA,airpods,,1.0,2024-11-04,paid,chinedu@email.com
+150,ABDUL BELLO,08081220702,ENUGU,hp laptop,,1.0,10/10/2024,pending,chinedu@email.com
+151,VICTOR ADE,08083470812,KADUNA,iphone x,,1.0,2024/10/18,paid,unkwoknemail@gmail.com
+152,musa danjuma,,ABUJA,airpods,,1.0,Oct 10 2024,pending,chinedu@email.com
+153,CHIKA ONUOHA,,PORT HARCOURT,iphone x,,1.0,2024-10-25,failed,adefemi@mail
+154,Chinedu Okafor,08065602867,ENUGU,iphone x,,1.0,14/11/2024,failed,emeka@mail.com
+155,amaka obinna,,PORT HARCOURT,samsung phone,,2.0,27-11-2024,failed,gbenga@
+156,TUNDE BAKARE,08059886835,ABUJA,iphone x,,1.0,2024/10/16,failed,chinedu@email.com
+157,EMEKA UZO,08092657812,PORT HARCOURT,iphone x,,1.0,Oct 21 2024,pending,abdul@mail
+158,ifeoma igwe,08078928495,ENUGU,airpods,,2.0,2024-10-24,failed,musa@mail.com
+159,gbenga isaac,08073744699,LAGOS,infinix phone,,1.0,2024-11-18,failed,abdul@mail
+160,ESTHER JOHN,,KADUNA,airpods,,2.0,2024-10-04,paid,abdul@mail
+161,ABDUL BELLO,08075344365,ABUJA,hp laptop,,1.0,02-11-2024,failed,esther@mail.com
+162,amina ibrahim,08080919696,LAGOS,infinix phone,,1.0,Oct 23 2024,paid,danokoro@mail
+163,CHINEDU OKAFOR,08078397666,LAGOS,airpods,,2.0,2024-11-22,paid,unkwoknemail@gmail.com
+164,ferdinand nwoke,,PORT HARCOURT,infinix phone,,1.0,25-11-2024,paid,unkwoknemail@gmail.com
+165,Michael Peters,08004843031,JOS,samsung phone,,1.0,Nov 10 2024,paid,oluchioke@mail
+166,TUNDE BAKARE,08026762829,ENUGU,samsung phone,,1.0,2024-11-05,pending,emeka@mail.com
+167,adebayo femi,,PORT HARCOURT,airpods,,2.0,17/10/2024,pending,kingsley@mail.com
+168,ABDUL BELLO,08068801332,LAGOS,samsung phone,,1.0,07/11/2024,failed,oluchioke@mail
+169,Blessing Okorie,,ENUGU,iphone x,,1.0,Oct 28 2024,failed,emeka@mail.com
+170,oluchi oke,08031784108,ENUGU,infinix phone,,1.0,Oct 27 2024,failed,chika@mail.com
+171,amina ibrahim,08024476533,JOS,infinix phone,,3.0,10/10/2024,failed,amaka@
+172,FAITH JOHN,08092966629,ABUJA,iphone x,,1.0,20-10-2024,paid,amaka@
+173,CHIKA ONUOHA,,KADUNA,hp laptop,,2.0,20-10-2024,pending,faith@gmail.com
+174,ABDUL BELLO,,LAGOS,hp laptop,,1.0,2024-10-12,paid,emeka@mail.com
+175,gbenga isaac,08017821093,LAGOS,infinix phone,,1.0,Oct 07 2024,paid,danokoro@mail
+176,Michael Peters,08049717896,PORT HARCOURT,iphone x,,1.0,2024/10/07,failed,emeka@mail.com
+177,joy okafor,08059086625,KADUNA,iphone x,,2.0,13-10-2024,paid,esther@mail.com
+178,oluchi oke,08041776883,ABUJA,iphone x,,3.0,17-10-2024,paid,emeka@mail.com
+179,daniel okoro,,LAGOS,infinix phone,,1.0,2024/10/24,failed,abdul@mail
+180,musa danjuma,08084448864,JOS,infinix phone,,3.0,10/11/2024,pending,faith@gmail.com
+181,janet olawale,,ENUGU,airpods,,1.0,10-10-2024,failed,adefemi@mail
+182,VICTOR ADE,08035217642,ABUJA,infinix phone,,3.0,08/11/2024,pending,danokoro@mail
+183,amaka obinna,08049032354,JOS,hp laptop,,2.0,24-11-2024,pending,danokoro@mail
+184,oluchi oke,08064006805,ABUJA,iphone x,,1.0,15/11/2024,pending,amaka@
+185,musa danjuma,08040265528,LAGOS,iphone x,,1.0,2024/11/04,paid,adefemi@mail
+186,EMEKA UZO,08059546026,ENUGU,hp laptop,,1.0,30/11/2024,paid,chinedu@email.com
+187,joy okafor,,LAGOS,infinix phone,,1.0,2024-11-05,pending,amina@email.com
+188,ABDUL BELLO,08067274332,LAGOS,infinix phone,,1.0,09-11-2024,paid,danokoro@mail
+189,adebayo femi,,ENUGU,samsung phone,,1.0,19/11/2024,pending,unkwoknemail@gmail.com
+190,oluchi oke,,JOS,hp laptop,,2.0,2024/10/05,pending,chinedu@email.com
+191,amaka obinna,08031002134,ABUJA,iphone x,,1.0,2024/11/03,paid,chinedu@email.com
+192,adebayo femi,08036071427,ABUJA,airpods,,1.0,2024-10-14,failed,oluchioke@mail
+193,adebayo femi,08011303673,PORT HARCOURT,hp laptop,,1.0,22-10-2024,pending,emeka@mail.com
+194,amina ibrahim,,LAGOS,samsung phone,,1.0,Nov 28 2024,pending,amaka@
+195,musa danjuma,08066537987,LAGOS,samsung phone,,1.0,30-10-2024,failed,gbenga@
+196,CHINEDU OKAFOR,08048044079,LAGOS,hp laptop,,1.0,2024-11-30,paid,sarah@mail
+197,amina ibrahim,,JOS,iphone x,,3.0,2024/11/02,failed,danokoro@mail
+198,CHINEDU OKAFOR,,JOS,samsung phone,,1.0,2024/10/15,failed,danokoro@mail
+199,ifeoma igwe,08016857262,LAGOS,iphone x,,1.0,12-11-2024,failed,unkwoknemail@gmail.com
+200,gbenga isaac,08084974137,ABUJA,samsung phone,,1.0,25/11/2024,paid,faith@gmail.com
+201,EMEKA UZO,,ABUJA,iphone x,,1.0,18-10-2024,pending,oluchioke@mail
+202,CHINEDU OKAFOR,08074530423,JOS,hp laptop,,1.0,2024/11/12,failed,chika@mail.com
+203,VICTOR ADE,08006053862,ENUGU,iphone x,,3.0,Nov 27 2024,paid,unkwoknemail@gmail.com
+204,adebayo femi,,JOS,iphone x,,2.0,05/11/2024,failed,blessing@mail.com
+205,CHIKA ONUOHA,,KADUNA,hp laptop,,1.0,12-10-2024,paid,amaka@
+206,KINGSLEY ONU,,KADUNA,iphone x,,1.0,2024/10/01,pending,amaka@
+207,ferdinand nwoke,,KADUNA,hp laptop,,2.0,2024-10-20,paid,amaka@
+208,janet olawale,08088795683,ABUJA,samsung phone,,1.0,19/11/2024,paid,no email
+209,amina ibrahim,08072064715,PORT HARCOURT,samsung phone,,1.0,10/11/2024,paid,oluchioke@mail
+210,Michael Peters,08033649966,LAGOS,airpods,,1.0,Oct 12 2024,failed,abdul@mail
+211,joy okafor,08084343152,ENUGU,hp laptop,,1.0,Nov 03 2024,pending,unkwoknemail@gmail.com
+212,KINGSLEY ONU,08051152353,ABUJA,iphone x,,1.0,21/10/2024,pending,chinedu@email.com
+213,ifeoma igwe,,PORT HARCOURT,iphone x,,3.0,18/11/2024,paid,amaka@
+214,TUNDE BAKARE,08021996592,ABUJA,airpods,,2.0,2024/11/30,paid,faith@gmail.com
+215,musa danjuma,08026452376,ABUJA,iphone x,,2.0,Oct 05 2024,failed,chinedu@email.com
+216,musa danjuma,08040698521,JOS,iphone x,,2.0,Oct 10 2024,pending,no email
+217,adebayo femi,08073808367,LAGOS,samsung phone,,3.0,2024/10/26,pending,musa@mail.com
+218,CHINEDU OKAFOR,,LAGOS,samsung phone,,1.0,21-11-2024,paid,esther@mail.com
+219,oluchi oke,08021153785,PORT HARCOURT,infinix phone,,1.0,07-10-2024,pending,adefemi@mail
+220,sarah ben,08090488202,ENUGU,airpods,,1.0,23-11-2024,paid,kingsley@mail.com
+221,gbenga isaac,08089343631,ABUJA,iphone x,,1.0,2024-10-29,paid,janet@mail.com
+222,ABDUL BELLO,,PORT HARCOURT,hp laptop,,1.0,10-11-2024,pending,faith@gmail.com
+223,sarah ben,08083954938,LAGOS,airpods,,1.0,2024-10-27,paid,faith@gmail.com
+224,joy okafor,08041049362,JOS,hp laptop,,2.0,2024-10-23,paid, no email
+225,Michael Peters,08076520632,JOS,samsung phone,,1.0,25-11-2024,pending, no email
+226,ferdinand nwoke,08099703864,ABUJA,samsung phone,,1.0,2024-11-14,failed,janet@mail.com
+227,Chinedu Okafor,08000718263,JOS,samsung phone,,2.0,2024/10/18,paid,esther@mail.com
+228,FAITH JOHN,08042247378,LAGOS,infinix phone,,2.0,31/10/2024,paid, no email
+229,gbenga isaac,,LAGOS,iphone x,,1.0,15-11-2024,pending,unkwoknemail@gmail.com
+230,sarah ben,,JOS,infinix phone,,3.0,25-11-2024,paid,esther@mail.com
+231,GRACE DANIEL,08053195983,ABUJA,hp laptop,,1.0,2024/11/23,failed,chika@mail.com
+232,ferdinand nwoke,,PORT HARCOURT,infinix phone,,1.0,Nov 17 2024,pending,chinedu@email.com
+233,oluchi oke,08041640075,ABUJA,iphone x,,1.0,Oct 31 2024,failed,no email
+234,amina ibrahim,,LAGOS,iphone x,,1.0,2024-10-30,paid,unkwoknemail@gmail.com
+235,Michael Peters,,ABUJA,hp laptop,,1.0,05/10/2024,failed,faith@gmail.com
+236,musa danjuma,08064899189,ENUGU,hp laptop,,1.0,2024-10-18,pending,chinedu@email.com
+237,Blessing Okorie,08016956679,LAGOS,hp laptop,,3.0,02-10-2024,pending,musa@mail.com
+238,KINGSLEY ONU,08079684405,PORT HARCOURT,samsung phone,,1.0,2024/11/11,paid,chika@mail.com
+239,amaka obinna,,PORT HARCOURT,hp laptop,,2.0,22-11-2024,paid,emeka@mail.com
+240,Chinedu Okafor,,LAGOS,infinix phone,,1.0,28/11/2024,paid,esther@mail.com
+241,Michael Peters,,LAGOS,airpods,,1.0,Nov 30 2024,paid,danokoro@mail
+242,sarah ben,08050042702,LAGOS,samsung phone,,2.0,20-11-2024,failed,unkwoknemail@gmail.com
+243,Michael Peters,,ABUJA,iphone x,,3.0,2024/10/25,paid,emeka@mail.com
+244,janet olawale,,KADUNA,iphone x,,1.0,18-10-2024,pending, no email
+245,TUNDE BAKARE,08000310753,LAGOS,iphone x,,1.0,Oct 10 2024,failed,janet@mail.com
+246,gbenga isaac,,JOS,infinix phone,,2.0,2024/10/15,pending,unkwoknemail@gmail.com
+247,CHIKA ONUOHA,08080951128,JOS,hp laptop,,3.0,2024-10-02,failed,kingsley@mail.com
+248,ESTHER JOHN,,JOS,hp laptop,,1.0,Oct 11 2024,paid,unkwoknemail@gmail.com
+249,CHIKA ONUOHA,08032118925,JOS,samsung phone,,2.0,2024-10-17,paid,musa@mail.com
+250,EMEKA UZO,08094347308,ABUJA,hp laptop,,1.0,2024-10-08,paid,danokoro@mail
+251,CHINEDU OKAFOR,,KADUNA,hp laptop,,2.0,03/10/2024,pending,oluchioke@mail
+252,oluchi oke,,KADUNA,iphone x,,1.0,17-11-2024,paid,unkwoknemail@gmail.com
+253,janet olawale,08018934627,LAGOS,iphone x,,1.0,25/11/2024,paid,amaka@
+254,Michael Peters,08075048939,ABUJA,airpods,,1.0,2024-11-17,pending,amaka@
+255,KINGSLEY ONU,,LAGOS,hp laptop,,1.0,2024/11/13,paid,abdul@mail
+256,ifeoma igwe,08012855930,JOS,airpods,,3.0,Oct 08 2024,pending,oluchioke@mail
+257,amina ibrahim,,KADUNA,iphone x,,1.0,23/11/2024,failed,unkwoknemail@gmail.com
+258,janet olawale,,LAGOS,samsung phone,,2.0,21/10/2024,pending,kingsley@mail.com
+259,Blessing Okorie,08000497827,PORT HARCOURT,iphone x,,1.0,Oct 25 2024,pending,adefemi@mail
+260,musa danjuma,08013120212,ABUJA,iphone x,,1.0,2024-10-26,pending,musa@mail.com
+261,ESTHER JOHN,08071040398,JOS,iphone x,,1.0,14/11/2024,failed,chika@mail.com
+262,GRACE DANIEL,08027302076,JOS,infinix phone,,1.0,2024-11-21,pending,sarah@mail
+263,amina ibrahim,,ABUJA,infinix phone,,1.0,Nov 24 2024,failed,danokoro@mail
+264,EMEKA UZO,,JOS,infinix phone,,2.0,26-11-2024,paid,abdul@mail
+265,sarah ben,08049933867,ABUJA,samsung phone,,1.0,2024-11-28,paid,amina@email.com
+266,VICTOR ADE,08012686329,JOS,iphone x,,1.0,Oct 30 2024,paid,no email
+267,Michael Peters,,LAGOS,iphone x,,3.0,2024/10/27,paid,danokoro@mail
+268,ferdinand nwoke,08057823435,ENUGU,airpods,,1.0,15/10/2024,paid,sarah@mail
+269,joy okafor,08053860518,LAGOS,samsung phone,,1.0,2024-11-07,paid,adefemi@mail
+270,TUNDE BAKARE,,JOS,infinix phone,,2.0,2024-11-12,paid,sarah@mail
+271,ferdinand nwoke,,ENUGU,iphone x,,2.0,16/11/2024,paid,gbenga@
+272,ABDUL BELLO,08090378840,PORT HARCOURT,hp laptop,,1.0,2024-10-02,paid,gbenga@
+273,janet olawale,08047434936,LAGOS,airpods,,3.0,Oct 23 2024,paid,unkwoknemail@gmail.com
+274,Michael Peters,08037051906,ENUGU,hp laptop,,1.0,2024/11/26,failed,chinedu@email.com
+275,adebayo femi,08058700796,ABUJA,hp laptop,,3.0,2024/10/27,pending, no email
+276,gbenga isaac,,LAGOS,hp laptop,,1.0,2024/11/10,paid,blessing@mail.com
+277,FAITH JOHN,08074728781,ABUJA,hp laptop,,1.0,01/11/2024,pending,no email
+278,FAITH JOHN,08027307990,PORT HARCOURT,iphone x,,2.0,Oct 06 2024,pending,chinedu@email.com
+279,FAITH JOHN,,JOS,hp laptop,,1.0,Nov 02 2024,pending,adefemi@mail
+280,ESTHER JOHN,,LAGOS,airpods,,1.0,26-11-2024,pending,abdul@mail
+281,adebayo femi,,PORT HARCOURT,samsung phone,,1.0,2024/11/17,pending,abdul@mail
+282,ifeoma igwe,08030920165,PORT HARCOURT,samsung phone,,1.0,Oct 11 2024,failed,faith@gmail.com
+283,VICTOR ADE,08001751723,PORT HARCOURT,infinix phone,,1.0,2024/11/11,pending,no email
+284,CHINEDU OKAFOR,08063491350,PORT HARCOURT,hp laptop,,1.0,2024-10-13,paid,no email
+285,ABDUL BELLO,08013236178,ENUGU,hp laptop,,2.0,Oct 06 2024,paid,chinedu@email.com
+286,VICTOR ADE,08017102318,ENUGU,samsung phone,,1.0,2024-10-23,paid,no email
+287,musa danjuma,08095698055,KADUNA,infinix phone,,1.0,2024-11-11,pending,chinedu@email.com
+288,ESTHER JOHN,08055064818,ENUGU,airpods,,2.0,2024/11/13,failed,sarah@mail
+289,KINGSLEY ONU,08045429920,KADUNA,iphone x,,3.0,01-10-2024,paid,oluchioke@mail
+290,FAITH JOHN,08002884899,KADUNA,hp laptop,,1.0,2024/10/04,paid, no email
+291,ESTHER JOHN,,PORT HARCOURT,airpods,,1.0,2024-11-06,pending,blessing@mail.com
+292,KINGSLEY ONU,,ABUJA,iphone x,,1.0,17/10/2024,failed,faith@gmail.com
+293,Chinedu Okafor,,LAGOS,hp laptop,,1.0,Nov 04 2024,failed,unkwoknemail@gmail.com
+294,CHINEDU OKAFOR,08051186411,ENUGU,hp laptop,,1.0,2024-11-03,paid,faith@gmail.com
+295,Blessing Okorie,08036904132,LAGOS,infinix phone,,1.0,Oct 01 2024,paid,janet@mail.com
+296,ESTHER JOHN,,LAGOS,samsung phone,,1.0,22/10/2024,pending,unkwoknemail@gmail.com
+297,CHINEDU OKAFOR,08062284828,PORT HARCOURT,samsung phone,,1.0,2024-10-07,pending,sarah@mail
+298,ESTHER JOHN,08033351910,KADUNA,hp laptop,,2.0,17/10/2024,paid,unkwoknemail@gmail.com
+299,KINGSLEY ONU,08001986004,ABUJA,iphone x,,1.0,2024-10-24,failed,sarah@mail
+300,janet olawale,08084251162,LAGOS,samsung phone,,3.0,2024-11-13,paid,emeka@mail.com
+301,oluchi oke,08028176698,JOS,iphone x,,1.0,18/11/2024,failed,amaka@
+302,Michael Peters,08034264242,ENUGU,samsung phone,,1.0,2024/11/14,pending,abdul@mail
+303,ifeoma igwe,,PORT HARCOURT,iphone x,,1.0,Oct 07 2024,paid,adefemi@mail
+304,Chinedu Okafor,,ENUGU,airpods,,2.0,10-11-2024,failed,kingsley@mail.com
+305,ESTHER JOHN,08083659805,KADUNA,hp laptop,,1.0,05/11/2024,paid,sarah@mail
+306,KINGSLEY ONU,,LAGOS,airpods,,3.0,12-11-2024,paid,danokoro@mail
+307,janet olawale,,JOS,iphone x,,3.0,2024/10/04,paid,amina@email.com
+308,TUNDE BAKARE,08057640206,KADUNA,airpods,,1.0,23/10/2024,failed,oluchioke@mail
+309,ESTHER JOHN,08048310592,ABUJA,hp laptop,,3.0,2024-11-23,failed, no email
+310,ferdinand nwoke,08037919867,JOS,samsung phone,,3.0,2024/11/19,paid,chika@mail.com
+311,gbenga isaac,08087098806,ABUJA,infinix phone,,2.0,2024/11/14,paid,abdul@mail
+312,KINGSLEY ONU,08040009925,ABUJA,infinix phone,,1.0,Nov 19 2024,paid,unkwoknemail@gmail.com
+313,adebayo femi,08096905676,LAGOS,airpods,,1.0,2024-11-22,failed,gbenga@
+314,CHIKA ONUOHA,08061585421,PORT HARCOURT,iphone x,,1.0,2024/11/11,failed,chinedu@email.com
+315,Michael Peters,,ENUGU,hp laptop,,1.0,26-10-2024,paid,gbenga@
+316,Michael Peters,,KADUNA,samsung phone,,1.0,2024-10-24,paid,danokoro@mail
+317,ESTHER JOHN,,ENUGU,infinix phone,,1.0,2024-10-17,failed,adefemi@mail
+318,amina ibrahim,,ABUJA,samsung phone,,2.0,2024-11-01,pending,adefemi@mail
+319,GRACE DANIEL,08027820203,ENUGU,infinix phone,,1.0,2024/11/28,paid,danokoro@mail
+320,ifeoma igwe,08003450528,KADUNA,hp laptop,,2.0,26/11/2024,failed,chinedu@email.com
+321,Michael Peters,,KADUNA,samsung phone,,1.0,28/11/2024,paid,blessing@mail.com
+322,KINGSLEY ONU,08046419089,ABUJA,hp laptop,,1.0,17/10/2024,pending,musa@mail.com
+323,TUNDE BAKARE,08074631967,LAGOS,hp laptop,,2.0,22-11-2024,pending,chinedu@email.com
+324,amina ibrahim,08084364946,LAGOS,iphone x,,1.0,05/10/2024,paid,oluchioke@mail
+325,Blessing Okorie,08026957455,ENUGU,hp laptop,,1.0,24-11-2024,pending,janet@mail.com
+326,musa danjuma,,PORT HARCOURT,hp laptop,,3.0,Oct 23 2024,pending,chinedu@email.com
+327,oluchi oke,08085990898,PORT HARCOURT,samsung phone,,1.0,Nov 20 2024,paid,chinedu@email.com
+328,oluchi oke,08076365818,ABUJA,iphone x,,1.0,01-10-2024,pending,oluchioke@mail
+329,FAITH JOHN,08073793387,JOS,samsung phone,,1.0,Nov 14 2024,failed,unkwoknemail@gmail.com
+330,ESTHER JOHN,08013389874,PORT HARCOURT,airpods,,1.0,2024-10-11,pending,blessing@mail.com
+331,sarah ben,08070853755,KADUNA,iphone x,,1.0,2024-10-06,paid,chinedu@email.com
+332,CHIKA ONUOHA,08041868469,LAGOS,airpods,,1.0,2024/11/01,pending,abdul@mail
+333,FAITH JOHN,08067291261,LAGOS,iphone x,,1.0,05-11-2024,paid,no email
+334,amina ibrahim,,JOS,samsung phone,,1.0,2024/10/09,failed,unkwoknemail@gmail.com
+335,ferdinand nwoke,08083488226,JOS,hp laptop,,2.0,16/11/2024,paid,chinedu@email.com
+336,ifeoma igwe,08026601195,LAGOS,infinix phone,,1.0,2024/10/15,paid,chinedu@email.com
+337,CHIKA ONUOHA,08048233546,JOS,samsung phone,,1.0,Oct 20 2024,paid,adefemi@mail
+338,EMEKA UZO,08094818271,PORT HARCOURT,hp laptop,,1.0,19-10-2024,paid,chinedu@email.com
+339,VICTOR ADE,08013864096,KADUNA,iphone x,,1.0,2024-11-04,paid,chika@mail.com
+340,FAITH JOHN,,LAGOS,hp laptop,,1.0,2024/11/28,paid,unkwoknemail@gmail.com
+341,joy okafor,,JOS,airpods,,1.0,Nov 07 2024,failed,esther@mail.com
+342,GRACE DANIEL,08005842112,KADUNA,hp laptop,,1.0,2024/11/19,paid,adefemi@mail
+343,musa danjuma,08040332489,LAGOS,infinix phone,,1.0,2024-10-07,failed,unkwoknemail@gmail.com
+344,GRACE DANIEL,08035631030,KADUNA,iphone x,,1.0,Oct 12 2024,pending,amina@email.com
+345,VICTOR ADE,,JOS,iphone x,,1.0,17-10-2024,pending,chika@mail.com
+346,joy okafor,08080705884,ENUGU,iphone x,,1.0,Nov 24 2024,paid,amaka@
+347,Blessing Okorie,08055361094,JOS,infinix phone,,1.0,17-10-2024,pending,esther@mail.com
+348,oluchi oke,,ABUJA,samsung phone,,2.0,Oct 23 2024,pending,unkwoknemail@gmail.com
+349,oluchi oke,,LAGOS,iphone x,,2.0,20/11/2024,failed,esther@mail.com
+350,ferdinand nwoke,,LAGOS,hp laptop,,3.0,2024/11/01,paid,janet@mail.com
+351,VICTOR ADE,08002246853,KADUNA,infinix phone,,3.0,04/10/2024,paid,emeka@mail.com
+352,ESTHER JOHN,,JOS,samsung phone,,2.0,2024/10/22,paid,esther@mail.com
+353,joy okafor,,JOS,infinix phone,,1.0,Oct 19 2024,pending,oluchioke@mail
+354,daniel okoro,,ABUJA,infinix phone,,1.0,24-10-2024,paid,kingsley@mail.com
+355,musa danjuma,,LAGOS,iphone x,,1.0,08/10/2024,pending,abdul@mail
+356,EMEKA UZO,,KADUNA,iphone x,,1.0,2024/10/08,paid,emeka@mail.com
+357,amaka obinna,,LAGOS,hp laptop,,1.0,09-10-2024,paid,chika@mail.com
+358,adebayo femi,08004518763,LAGOS,infinix phone,,1.0,24/11/2024,pending,abdul@mail
+359,gbenga isaac,,LAGOS,hp laptop,,1.0,2024/11/04,pending,unkwoknemail@gmail.com
+360,adebayo femi,,JOS,hp laptop,,3.0,10/11/2024,pending,unkwoknemail@gmail.com
+361,gbenga isaac,08076996809,KADUNA,samsung phone,,1.0,17-10-2024,pending,gbenga@
+362,joy okafor,,LAGOS,infinix phone,,1.0,2024/10/24,paid,unkwoknemail@gmail.com
+363,oluchi oke,08049548070,LAGOS,iphone x,,1.0,12/10/2024,failed,chinedu@email.com
+364,adebayo femi,,ENUGU,samsung phone,,3.0,Oct 03 2024,paid,unkwoknemail@gmail.com
+365,Michael Peters,,PORT HARCOURT,samsung phone,,1.0,2024/10/01,failed,blessing@mail.com
+366,ferdinand nwoke,08027938007,LAGOS,samsung phone,,1.0,2024-11-15,failed,amina@email.com
+367,daniel okoro,08006588812,PORT HARCOURT,samsung phone,,3.0,Nov 15 2024,pending,oluchioke@mail
+368,GRACE DANIEL,,PORT HARCOURT,iphone x,,1.0,2024-11-12,paid,adefemi@mail
+369,CHIKA ONUOHA,,JOS,iphone x,,1.0,2024/10/09,pending,janet@mail.com
+370,janet olawale,08079432747,JOS,samsung phone,,1.0,2024/10/15,paid,danokoro@mail
+371,GRACE DANIEL,,ENUGU,airpods,,2.0,Oct 01 2024,paid,unkwoknemail@gmail.com
+372,FAITH JOHN,08054852522,KADUNA,iphone x,,3.0,2024/11/07,pending,chinedu@email.com
+373,joy okafor,,PORT HARCOURT,infinix phone,,2.0,18/11/2024,paid,unkwoknemail@gmail.com
+374,amina ibrahim,08065258069,PORT HARCOURT,hp laptop,,2.0,2024-10-02,pending,musa@mail.com
+375,oluchi oke,08027086180,KADUNA,samsung phone,,1.0,2024-11-01,pending,no email
+376,janet olawale,,KADUNA,infinix phone,,1.0,2024-11-16,paid,musa@mail.com
+377,VICTOR ADE,08019079613,PORT HARCOURT,hp laptop,,1.0,2024-11-17,pending,chika@mail.com
+378,Chinedu Okafor,08090787769,ABUJA,hp laptop,,3.0,2024-10-21,pending,kingsley@mail.com
+379,oluchi oke,,LAGOS,airpods,,2.0,2024/11/08,failed,no email
+380,ESTHER JOHN,,ABUJA,hp laptop,,2.0,2024/10/26,pending,emeka@mail.com
+381,ferdinand nwoke,,KADUNA,samsung phone,,1.0,Oct 10 2024,paid,chinedu@email.com
+382,amaka obinna,,LAGOS,samsung phone,,3.0,Nov 07 2024,paid,amaka@
+383,ABDUL BELLO,08069877190,JOS,iphone x,,3.0,19-10-2024,failed,unkwoknemail@gmail.com
+384,joy okafor,,ABUJA,hp laptop,,3.0,11-10-2024,failed,unkwoknemail@gmail.com
+385,Chinedu Okafor,,JOS,infinix phone,,1.0,2024-11-26,failed,abdul@mail
+386,ifeoma igwe,,ABUJA,hp laptop,,1.0,03-10-2024,paid,chinedu@email.com
+387,Michael Peters,08044068635,LAGOS,hp laptop,,2.0,2024-10-29,paid,abdul@mail
+388,GRACE DANIEL,,ABUJA,airpods,,3.0,12-11-2024,failed,unkwoknemail@gmail.com
+389,joy okafor,,LAGOS,iphone x,,3.0,Oct 03 2024,paid,unkwoknemail@gmail.com
+390,joy okafor,,LAGOS,samsung phone,,1.0,2024/11/24,failed,danokoro@mail
+391,janet olawale,,KADUNA,airpods,,1.0,2024/11/05,failed,esther@mail.com
+392,joy okafor,08017202583,ENUGU,infinix phone,,3.0,23-11-2024,pending,emeka@mail.com
+393,ABDUL BELLO,,LAGOS,airpods,,2.0,11-11-2024,paid,musa@mail.com
+394,ESTHER JOHN,08094746148,PORT HARCOURT,samsung phone,,3.0,Nov 18 2024,paid,oluchioke@mail
+395,GRACE DANIEL,,ABUJA,infinix phone,,1.0,Oct 29 2024,failed,danokoro@mail
+396,ferdinand nwoke,,KADUNA,iphone x,,3.0,Nov 25 2024,pending,esther@mail.com
+397,amina ibrahim,08057724161,JOS,hp laptop,,1.0,2024-10-28,paid,abdul@mail
+398,GRACE DANIEL,,LAGOS,infinix phone,,2.0,Oct 24 2024,paid,chinedu@email.com
+399,KINGSLEY ONU,08021121081,ENUGU,iphone x,,1.0,2024-11-03,paid,chika@mail.com
+400,oluchi oke,,ENUGU,iphone x,,1.0,2024/11/04,paid,sarah@mail
+401,musa danjuma,,PORT HARCOURT,samsung phone,,2.0,01-10-2024,failed,amina@email.com
+402,GRACE DANIEL,08009274468,KADUNA,iphone x,,1.0,2024/10/15,failed,chinedu@email.com
+403,janet olawale,08001870483,JOS,samsung phone,,1.0,13/11/2024,paid,faith@gmail.com
+404,daniel okoro,08066723669,ENUGU,hp laptop,,1.0,Oct 28 2024,failed,chinedu@email.com
+405,TUNDE BAKARE,,KADUNA,infinix phone,,1.0,28-11-2024,paid,faith@gmail.com
+406,oluchi oke,08037934805,LAGOS,hp laptop,,3.0,Nov 07 2024,failed,amina@email.com
+407,gbenga isaac,,ABUJA,airpods,,1.0,2024/11/23,paid,no email
+408,oluchi oke,08027766473,PORT HARCOURT,samsung phone,,3.0,14-11-2024,pending,chika@mail.com
+409,CHINEDU OKAFOR,08092431830,PORT HARCOURT,samsung phone,,1.0,23/11/2024,failed,emeka@mail.com
+410,daniel okoro,08045927805,ENUGU,samsung phone,,1.0,Nov 28 2024,pending,janet@mail.com
+411,musa danjuma,08027242103,ENUGU,hp laptop,,1.0,26/10/2024,paid,unkwoknemail@gmail.com
+412,janet olawale,,LAGOS,hp laptop,,2.0,23/11/2024,failed,unkwoknemail@gmail.com
+413,GRACE DANIEL,,JOS,iphone x,,1.0,2024/10/24,paid,sarah@mail
+414,amaka obinna,,ENUGU,samsung phone,,1.0,2024-10-07,pending,adefemi@mail
+415,ifeoma igwe,08098845384,PORT HARCOURT,hp laptop,,2.0,Nov 03 2024,failed,chinedu@email.com
+416,Michael Peters,08011748865,PORT HARCOURT,samsung phone,,1.0,2024/11/27,failed,abdul@mail
+417,Chinedu Okafor,,ENUGU,samsung phone,,3.0,18/11/2024,pending,unkwoknemail@gmail.com
+418,oluchi oke,08034898176,PORT HARCOURT,infinix phone,,3.0,Nov 11 2024,pending,abdul@mail
+419,ferdinand nwoke,08049088106,KADUNA,airpods,,1.0,2024/10/04,pending,gbenga@
+420,EMEKA UZO,08097917071,PORT HARCOURT,samsung phone,,3.0,Oct 28 2024,pending, no email
+421,janet olawale,,LAGOS,infinix phone,,3.0,2024/10/07,paid,gbenga@
+422,GRACE DANIEL,08086772053,ABUJA,iphone x,,2.0,2024/11/02,paid,kingsley@mail.com
+423,TUNDE BAKARE,08057721222,KADUNA,airpods,,3.0,20/10/2024,failed,gbenga@
+424,ESTHER JOHN,,KADUNA,infinix phone,,1.0,2024/11/09,paid,chinedu@email.com
+425,janet olawale,08011101590,ENUGU,iphone x,,2.0,11/10/2024,failed,chinedu@email.com
+426,musa danjuma,08094278723,ABUJA,infinix phone,,1.0,2024/10/29,failed,chika@mail.com
+427,CHINEDU OKAFOR,,LAGOS,iphone x,,1.0,2024-10-04,pending,musa@mail.com
+428,amina ibrahim,08054301112,KADUNA,hp laptop,,3.0,2024/11/11,paid,kingsley@mail.com
+429,amaka obinna,08003699968,PORT HARCOURT,hp laptop,,1.0,2024-11-01,paid,amina@email.com
+430,musa danjuma,08012754708,ENUGU,airpods,,2.0,2024/11/08,paid,gbenga@
+431,EMEKA UZO,08081750467,KADUNA,samsung phone,,1.0,18/10/2024,paid,adefemi@mail
+432,gbenga isaac,08088427199,KADUNA,airpods,,2.0,21/10/2024,failed,amina@email.com
+433,sarah ben,08006311673,ENUGU,iphone x,,1.0,25-11-2024,paid,esther@mail.com
+434,Blessing Okorie,08020218996,ENUGU,iphone x,,1.0,2024/10/29,pending,unkwoknemail@gmail.com
+435,ferdinand nwoke,,LAGOS,samsung phone,,1.0,02/10/2024,failed,chinedu@email.com
+436,amina ibrahim,,KADUNA,hp laptop,,1.0,2024/10/27,paid,oluchioke@mail
+437,daniel okoro,08015184379,ABUJA,hp laptop,,3.0,Nov 15 2024,paid, no email
+438,ferdinand nwoke,08020383520,ENUGU,airpods,,2.0,23/10/2024,pending,amina@email.com
+439,musa danjuma,,ENUGU,infinix phone,,1.0,2024-10-02,paid,faith@gmail.com
+440,ifeoma igwe,08045653127,JOS,iphone x,,1.0,2024/11/07,pending,danokoro@mail
+441,oluchi oke,08039446907,LAGOS,iphone x,,1.0,Oct 20 2024,pending,sarah@mail
+442,janet olawale,08015440276,PORT HARCOURT,samsung phone,,1.0,27/10/2024,failed,abdul@mail
+443,sarah ben,08050057738,LAGOS,airpods,,1.0,2024-11-12,paid, no email
+444,janet olawale,,LAGOS,samsung phone,,3.0,2024-10-18,paid,unkwoknemail@gmail.com
+445,oluchi oke,,PORT HARCOURT,airpods,,3.0,Oct 02 2024,pending,unkwoknemail@gmail.com
+446,EMEKA UZO,,ENUGU,samsung phone,,1.0,2024/10/05,pending,janet@mail.com
+447,Blessing Okorie,08012599310,PORT HARCOURT,hp laptop,,2.0,30/10/2024,pending,kingsley@mail.com
+448,adebayo femi,08011116206,KADUNA,hp laptop,,2.0,29-10-2024,pending,unkwoknemail@gmail.com
+449,joy okafor,08012442771,ENUGU,iphone x,,1.0,2024/11/21,pending,amaka@
+450,Michael Peters,08015036195,ABUJA,hp laptop,,1.0,Nov 16 2024,pending,danokoro@mail
+451,sarah ben,08056782935,LAGOS,infinix phone,,1.0,2024/11/06,pending,unkwoknemail@gmail.com
+452,TUNDE BAKARE,08025031904,PORT HARCOURT,hp laptop,,3.0,Oct 16 2024,failed,unkwoknemail@gmail.com
+453,joy okafor,,ABUJA,iphone x,,1.0,2024/10/05,pending,adefemi@mail
+454,EMEKA UZO,08085377950,PORT HARCOURT,samsung phone,,1.0,2024-10-28,paid,adefemi@mail
+455,Michael Peters,08020804826,KADUNA,hp laptop,,1.0,05-11-2024,paid, no email
+456,FAITH JOHN,08009602914,LAGOS,airpods,,1.0,2024/11/27,paid,blessing@mail.com
+457,sarah ben,,KADUNA,airpods,,1.0,2024/11/06,failed,chinedu@email.com
+458,VICTOR ADE,,ABUJA,hp laptop,,2.0,30-11-2024,paid,amaka@
+459,Michael Peters,08017507348,ENUGU,hp laptop,,1.0,2024/11/27,paid,sarah@mail
+460,oluchi oke,08070106023,JOS,hp laptop,,1.0,2024-11-09,pending,chika@mail.com
+461,TUNDE BAKARE,08046529988,ABUJA,samsung phone,,1.0,17-11-2024,pending,abdul@mail
+462,ABDUL BELLO,08011214996,KADUNA,hp laptop,,1.0,2024-10-24,paid,sarah@mail
+463,amina ibrahim,08043154893,KADUNA,samsung phone,,1.0,25-10-2024,paid,adefemi@mail
+464,oluchi oke,08097305120,PORT HARCOURT,infinix phone,,1.0,Nov 24 2024,paid,chinedu@email.com
+465,joy okafor,,ABUJA,hp laptop,,2.0,2024-10-25,paid,amaka@
+466,CHINEDU OKAFOR,08038273874,JOS,hp laptop,,1.0,18/11/2024,failed, no email
+467,oluchi oke,08072579537,KADUNA,infinix phone,,1.0,04/10/2024,pending,danokoro@mail
+468,ifeoma igwe,08073227043,ABUJA,iphone x,,1.0,01-10-2024,failed,chinedu@email.com
+469,KINGSLEY ONU,08032445140,PORT HARCOURT,infinix phone,,2.0,Nov 29 2024,failed,abdul@mail
+470,TUNDE BAKARE,,ABUJA,hp laptop,,3.0,2024-11-29,paid,oluchioke@mail
+471,joy okafor,08094364699,ENUGU,hp laptop,,1.0,2024-10-02,failed,unkwoknemail@gmail.com
+472,Blessing Okorie,08016672985,KADUNA,infinix phone,,3.0,2024/10/21,paid,esther@mail.com
+473,musa danjuma,08001310403,ENUGU,hp laptop,,2.0,2024-10-18,paid,danokoro@mail
+474,sarah ben,,ENUGU,airpods,,2.0,2024/10/05,pending,sarah@mail
+475,VICTOR ADE,08087155614,LAGOS,iphone x,,3.0,2024-11-01,pending,chika@mail.com
+476,VICTOR ADE,08039103156,ABUJA,airpods,,1.0,21-10-2024,paid,unkwoknemail@gmail.com
+477,CHINEDU OKAFOR,08005919307,KADUNA,iphone x,,1.0,09-11-2024,pending,chika@mail.com
+478,amina ibrahim,08058863222,ABUJA,iphone x,,2.0,25-11-2024,pending,faith@gmail.com
+479,daniel okoro,08040176578,LAGOS,infinix phone,,2.0,2024-10-25,failed,amina@email.com
+480,gbenga isaac,08085268489,LAGOS,samsung phone,,2.0,Nov 12 2024,pending,chika@mail.com
+481,ABDUL BELLO,08023921984,JOS,iphone x,,1.0,2024-11-19,paid,janet@mail.com
+482,adebayo femi,08052721590,KADUNA,airpods,,1.0,12/11/2024,paid,faith@gmail.com
+483,KINGSLEY ONU,,PORT HARCOURT,samsung phone,,1.0,11-11-2024,pending,chinedu@email.com
+484,joy okafor,08040599447,KADUNA,hp laptop,,1.0,2024/11/06,paid,janet@mail.com
+485,sarah ben,08089245352,LAGOS,infinix phone,,2.0,2024/10/19,failed,amaka@
+486,sarah ben,08037608956,LAGOS,infinix phone,,1.0,Oct 13 2024,pending,musa@mail.com
+487,oluchi oke,08021452096,JOS,infinix phone,,2.0,02/10/2024,pending,blessing@mail.com
+488,janet olawale,08081334596,PORT HARCOURT,hp laptop,,2.0,16-11-2024,failed,chinedu@email.com
+489,KINGSLEY ONU,,PORT HARCOURT,infinix phone,,2.0,2024/10/07,paid,faith@gmail.com
+490,adebayo femi,,JOS,samsung phone,,1.0,2024-10-25,failed, no email
+491,Chinedu Okafor,08022822120,ENUGU,airpods,,2.0,2024-10-24,failed,musa@mail.com
+492,daniel okoro,,ABUJA,samsung phone,,2.0,06-10-2024,pending,gbenga@
+493,gbenga isaac,,ABUJA,samsung phone,,3.0,18/10/2024,paid,sarah@mail
+494,joy okafor,08038863835,KADUNA,hp laptop,,2.0,22/11/2024,failed,chika@mail.com
+495,adebayo femi,,KADUNA,hp laptop,,1.0,Oct 14 2024,paid,emeka@mail.com
+496,CHIKA ONUOHA,08091597780,JOS,iphone x,,2.0,10/10/2024,pending,unkwoknemail@gmail.com
+497,daniel okoro,,ABUJA,infinix phone,,2.0,22-10-2024,failed,esther@mail.com
+498,ABDUL BELLO,,PORT HARCOURT,iphone x,,3.0,17-10-2024,pending,unkwoknemail@gmail.com
+499,joy okafor,08062648507,LAGOS,hp laptop,,1.0,2024-11-28,paid,chika@mail.com
+500,amina ibrahim,08083152795,KADUNA,airpods,,1.0,2024/11/05,paid,adefemi@mail
+501,FAITH JOHN,08040026312,ABUJA,airpods,,1.0,Oct 14 2024,paid,sarah@mail
+502,sarah ben,08098653589,LAGOS,hp laptop,,3.0,2024-10-08,pending, no email
+503,ESTHER JOHN,,LAGOS,hp laptop,,2.0,04-11-2024,paid,blessing@mail.com
+504,CHINEDU OKAFOR,,KADUNA,infinix phone,,1.0,Oct 25 2024,pending,danokoro@mail
+505,amina ibrahim,08076353872,JOS,iphone x,,3.0,2024/11/28,paid,danokoro@mail
+506,EMEKA UZO,,KADUNA,airpods,,1.0,Oct 16 2024,failed,emeka@mail.com
+507,CHIKA ONUOHA,,PORT HARCOURT,samsung phone,,1.0,06/11/2024,paid,amina@email.com
+508,EMEKA UZO,08073781884,ABUJA,hp laptop,,1.0,Nov 26 2024,failed,amaka@
+509,Michael Peters,08023863575,ABUJA,samsung phone,,1.0,21-10-2024,paid,sarah@mail
+510,ifeoma igwe,,JOS,iphone x,,2.0,31-10-2024,pending,musa@mail.com
+511,TUNDE BAKARE,,ABUJA,infinix phone,,1.0,14-10-2024,paid,musa@mail.com
+512,GRACE DANIEL,,LAGOS,airpods,,2.0,27-10-2024,pending,amina@email.com
+513,VICTOR ADE,08053705228,ENUGU,iphone x,,1.0,2024/11/04,pending,oluchioke@mail
+514,CHINEDU OKAFOR,08037949723,ABUJA,hp laptop,,1.0,12/10/2024,pending,janet@mail.com
+515,daniel okoro,08016125491,ABUJA,hp laptop,,1.0,2024/10/05,paid,adefemi@mail
+516,adebayo femi,08058769679,KADUNA,airpods,,1.0,14/10/2024,pending,unkwoknemail@gmail.com
+517,FAITH JOHN,08034730521,PORT HARCOURT,infinix phone,,3.0,11/11/2024,failed,chinedu@email.com
+518,Blessing Okorie,08012526279,JOS,infinix phone,,3.0,2024/10/02,paid, no email
+519,VICTOR ADE,,PORT HARCOURT,iphone x,,3.0,2024/11/20,failed, no email
+520,CHIKA ONUOHA,,JOS,samsung phone,,1.0,14/10/2024,pending,emeka@mail.com
+521,Michael Peters,,JOS,hp laptop,,1.0,21/11/2024,pending,sarah@mail
+522,Blessing Okorie,08055132234,LAGOS,hp laptop,,1.0,13/11/2024,pending,musa@mail.com
+523,TUNDE BAKARE,08037469395,ENUGU,samsung phone,,1.0,08/11/2024,paid,unkwoknemail@gmail.com
+524,joy okafor,08095631652,JOS,hp laptop,,1.0,Oct 22 2024,paid,unkwoknemail@gmail.com
+525,GRACE DANIEL,,JOS,iphone x,,2.0,Oct 05 2024,pending,adefemi@mail
+526,EMEKA UZO,,ABUJA,airpods,,1.0,05-10-2024,pending,unkwoknemail@gmail.com
+527,oluchi oke,08059488474,LAGOS,infinix phone,,2.0,14/11/2024,pending,chinedu@email.com
+528,daniel okoro,08066699015,KADUNA,airpods,,3.0,10-10-2024,pending,kingsley@mail.com
+529,ESTHER JOHN,08018859441,ABUJA,iphone x,,3.0,2024-11-14,pending,gbenga@
+530,ESTHER JOHN,08067067256,PORT HARCOURT,iphone x,,1.0,Nov 03 2024,paid,gbenga@
+531,EMEKA UZO,,ENUGU,samsung phone,,1.0,Oct 03 2024,failed,chinedu@email.com
+532,GRACE DANIEL,08005507093,JOS,infinix phone,,1.0,19-11-2024,paid,musa@mail.com
+533,ferdinand nwoke,08029458438,LAGOS,iphone x,,2.0,2024-10-11,failed,amaka@
+534,amina ibrahim,,PORT HARCOURT,hp laptop,,1.0,25-11-2024,paid,danokoro@mail
+535,Michael Peters,,ABUJA,samsung phone,,1.0,Nov 19 2024,failed,faith@gmail.com
+536,Blessing Okorie,08042783053,JOS,iphone x,,3.0,Nov 16 2024,pending,chinedu@email.com
+537,VICTOR ADE,08065982338,KADUNA,hp laptop,,1.0,20/10/2024,pending,kingsley@mail.com
+538,daniel okoro,,LAGOS,airpods,,1.0,10/11/2024,pending,faith@gmail.com
+539,gbenga isaac,08087915470,LAGOS,hp laptop,,2.0,2024/11/20,paid,adefemi@mail
+540,amaka obinna,,ENUGU,hp laptop,,1.0,2024-10-01,failed,unkwoknemail@gmail.com
+541,CHINEDU OKAFOR,08079918752,ENUGU,hp laptop,,1.0,02-11-2024,pending,abdul@mail
+542,ifeoma igwe,,JOS,iphone x,,3.0,2024/11/29,failed,janet@mail.com
+543,janet olawale,,KADUNA,infinix phone,,1.0,2024/11/18,paid,musa@mail.com
+544,amina ibrahim,08020736406,ENUGU,hp laptop,,3.0,Oct 31 2024,pending,blessing@mail.com
+545,TUNDE BAKARE,08047609897,PORT HARCOURT,infinix phone,,3.0,28-11-2024,paid,musa@mail.com
+546,gbenga isaac,,ENUGU,hp laptop,,1.0,Nov 30 2024,paid,chika@mail.com
+547,Blessing Okorie,08024997606,PORT HARCOURT,samsung phone,,1.0,13/11/2024,paid,oluchioke@mail
+548,ABDUL BELLO,08052964962,JOS,airpods,,2.0,Nov 30 2024,pending,danokoro@mail
+549,ferdinand nwoke,08046506300,PORT HARCOURT,iphone x,,1.0,07-10-2024,failed,amina@email.com
+550,CHIKA ONUOHA,,KADUNA,infinix phone,,1.0,2024-10-15,pending,chika@mail.com
+551,joy okafor,08004485944,JOS,iphone x,,1.0,2024-11-29,failed,no email
+552,oluchi oke,,PORT HARCOURT,samsung phone,,1.0,07-11-2024,paid, no email
+553,EMEKA UZO,08022879397,ENUGU,infinix phone,,1.0,2024-10-24,paid,amaka@
+554,amina ibrahim,08010785304,ABUJA,airpods,,1.0,2024/10/18,pending,musa@mail.com
+555,Michael Peters,,JOS,infinix phone,,3.0,01-11-2024,pending,abdul@mail
+556,adebayo femi,08061686483,LAGOS,airpods,,1.0,2024-11-08,pending,janet@mail.com
+557,gbenga isaac,08037283155,KADUNA,iphone x,,3.0,08-10-2024,paid,emeka@mail.com
+558,amaka obinna,08006740452,ABUJA,hp laptop,,1.0,Oct 31 2024,pending,chika@mail.com
+559,amaka obinna,,JOS,samsung phone,,1.0,2024-11-01,failed,chinedu@email.com
+560,CHINEDU OKAFOR,,ENUGU,hp laptop,,1.0,2024-10-17,pending,amaka@
+561,EMEKA UZO,08041000568,ENUGU,hp laptop,,3.0,Oct 09 2024,failed,no email
+562,musa danjuma,08015777169,ABUJA,iphone x,,2.0,05/11/2024,pending,esther@mail.com
+563,adebayo femi,08061604448,JOS,airpods,,1.0,07/11/2024,paid,kingsley@mail.com
+564,musa danjuma,08088157874,KADUNA,iphone x,,1.0,Nov 11 2024,pending,chika@mail.com
+565,musa danjuma,,JOS,samsung phone,,2.0,2024/11/11,pending,adefemi@mail
+566,KINGSLEY ONU,,JOS,iphone x,,3.0,Oct 28 2024,failed,no email
+567,musa danjuma,08001012637,JOS,airpods,,1.0,Nov 12 2024,paid,gbenga@
+568,ifeoma igwe,08088050857,LAGOS,iphone x,,2.0,19-11-2024,pending,blessing@mail.com
+569,adebayo femi,,ABUJA,hp laptop,,1.0,2024-11-20,pending,unkwoknemail@gmail.com
+570,VICTOR ADE,08036835132,PORT HARCOURT,airpods,,1.0,22-10-2024,pending,gbenga@
+571,daniel okoro,08009094566,ABUJA,hp laptop,,3.0,06/11/2024,paid,amaka@
+572,oluchi oke,,KADUNA,iphone x,,1.0,15-10-2024,failed,unkwoknemail@gmail.com
+573,Chinedu Okafor,,PORT HARCOURT,samsung phone,,2.0,Oct 21 2024,failed,unkwoknemail@gmail.com
+574,ABDUL BELLO,08094972660,KADUNA,samsung phone,,1.0,25/10/2024,failed,no email
+575,EMEKA UZO,08017409255,ENUGU,infinix phone,,2.0,2024-11-03,failed,faith@gmail.com
+576,Michael Peters,08029087954,PORT HARCOURT,iphone x,,1.0,03/10/2024,paid,kingsley@mail.com
+577,ABDUL BELLO,08016525335,KADUNA,airpods,,1.0,07-10-2024,pending,amaka@
+578,ABDUL BELLO,08081386604,KADUNA,hp laptop,,2.0,2024-10-02,failed,musa@mail.com
+579,VICTOR ADE,,ABUJA,samsung phone,,1.0,11-10-2024,failed,janet@mail.com
+580,oluchi oke,08062633881,LAGOS,infinix phone,,3.0,16/11/2024,failed,amina@email.com
+581,Blessing Okorie,,ENUGU,iphone x,,2.0,25-10-2024,failed,oluchioke@mail
+582,Chinedu Okafor,08019549244,KADUNA,hp laptop,,1.0,23/10/2024,paid,unkwoknemail@gmail.com
+583,ifeoma igwe,08002899656,KADUNA,iphone x,,1.0,2024-10-12,failed,oluchioke@mail
+584,ESTHER JOHN,08082595298,PORT HARCOURT,airpods,,1.0,17/10/2024,failed,faith@gmail.com
+585,oluchi oke,08057635157,KADUNA,hp laptop,,1.0,2024/10/23,failed,danokoro@mail
+586,FAITH JOHN,08098126876,LAGOS,hp laptop,,3.0,Oct 19 2024,failed,kingsley@mail.com
+587,ifeoma igwe,,PORT HARCOURT,iphone x,,1.0,24-11-2024,paid,amina@email.com
+588,amaka obinna,,ABUJA,hp laptop,,1.0,2024/10/12,pending,gbenga@
+589,amaka obinna,08024149858,JOS,iphone x,,3.0,2024-10-11,failed,chinedu@email.com
+590,VICTOR ADE,08050170030,JOS,samsung phone,,1.0,2024-10-18,paid,unkwoknemail@gmail.com
+591,adebayo femi,08041488357,ABUJA,samsung phone,,1.0,Oct 07 2024,failed,danokoro@mail
+592,sarah ben,08069525273,ABUJA,iphone x,,1.0,25/11/2024,paid,amaka@
+593,janet olawale,08020413107,JOS,samsung phone,,3.0,03-11-2024,pending,unkwoknemail@gmail.com
+594,gbenga isaac,,JOS,airpods,,3.0,2024/10/13,paid,sarah@mail
+595,gbenga isaac,,JOS,airpods,,3.0,20-11-2024,paid,chinedu@email.com
+596,Michael Peters,08075214425,ABUJA,airpods,,2.0,2024/10/20,pending,unkwoknemail@gmail.com
+597,Chinedu Okafor,08041189338,JOS,infinix phone,,2.0,2024/10/11,pending,amina@email.com
+598,sarah ben,,ENUGU,airpods,,1.0,Nov 01 2024,failed,sarah@mail
+599,amina ibrahim,08005902936,ABUJA,airpods,,2.0,2024-10-25,paid,unkwoknemail@gmail.com
+600,musa danjuma,08039103034,KADUNA,hp laptop,,1.0,07/11/2024,failed,no email
+601,ABDUL BELLO,08047379203,KADUNA,samsung phone,,1.0,2024/10/06,pending,chika@mail.com
+602,ESTHER JOHN,08029204050,JOS,iphone x,,1.0,12/10/2024,paid,amina@email.com
+603,Blessing Okorie,,ENUGU,hp laptop,,2.0,19-10-2024,pending,faith@gmail.com
+604,VICTOR ADE,08056601855,ENUGU,airpods,,1.0,2024/10/28,pending,unkwoknemail@gmail.com
+605,amina ibrahim,08067583288,KADUNA,airpods,,1.0,2024-11-20,failed,emeka@mail.com
+606,Chinedu Okafor,08065019262,KADUNA,hp laptop,,1.0,2024-10-06,failed,chika@mail.com
+607,musa danjuma,,JOS,hp laptop,,1.0,2024/11/24,paid,chika@mail.com
+608,ABDUL BELLO,,ABUJA,infinix phone,,2.0,09-10-2024,pending,amaka@
+609,CHINEDU OKAFOR,,ENUGU,iphone x,,1.0,2024-10-07,failed,emeka@mail.com
+610,adebayo femi,08057576374,ENUGU,samsung phone,,2.0,2024/11/07,pending,faith@gmail.com
+611,Michael Peters,08000003651,LAGOS,hp laptop,,3.0,Nov 16 2024,failed,unkwoknemail@gmail.com
+612,ferdinand nwoke,08003479713,ABUJA,hp laptop,,2.0,09/10/2024,failed,gbenga@
+613,CHINEDU OKAFOR,08013375726,ENUGU,hp laptop,,3.0,2024/11/10,failed,adefemi@mail
+614,FAITH JOHN,08073575169,ENUGU,iphone x,,1.0,2024/10/30,paid,chinedu@email.com
+615,amaka obinna,,KADUNA,infinix phone,,2.0,Oct 21 2024,pending,unkwoknemail@gmail.com
+616,FAITH JOHN,,ABUJA,samsung phone,,1.0,09-11-2024,pending,chika@mail.com
+617,adebayo femi,08027247296,ENUGU,iphone x,,3.0,07/11/2024,pending,unkwoknemail@gmail.com
+618,Chinedu Okafor,08051916338,PORT HARCOURT,samsung phone,,2.0,2024-11-01,pending,amaka@
+619,amina ibrahim,08011090294,ABUJA,iphone x,,2.0,2024-10-25,pending,chinedu@email.com
+620,FAITH JOHN,08020656728,PORT HARCOURT,hp laptop,,1.0,03-10-2024,failed,faith@gmail.com
+621,musa danjuma,,KADUNA,hp laptop,,1.0,19/10/2024,pending,unkwoknemail@gmail.com
+622,Michael Peters,08003199783,KADUNA,samsung phone,,3.0,Nov 21 2024,paid,kingsley@mail.com
+623,CHINEDU OKAFOR,08080194191,JOS,iphone x,,2.0,Nov 19 2024,paid,amaka@
+624,janet olawale,,ABUJA,iphone x,,1.0,23/11/2024,paid,esther@mail.com
+625,Blessing Okorie,08078172076,KADUNA,airpods,,1.0,28/11/2024,paid,kingsley@mail.com
+626,oluchi oke,08072931128,LAGOS,infinix phone,,1.0,Oct 15 2024,paid,chinedu@email.com
+627,ESTHER JOHN,08084901237,PORT HARCOURT,infinix phone,,1.0,28-11-2024,pending,unkwoknemail@gmail.com
+628,oluchi oke,08062705957,ENUGU,hp laptop,,1.0,07/11/2024,pending,chinedu@email.com
+629,daniel okoro,08024256297,ABUJA,samsung phone,,1.0,05/10/2024,paid,unkwoknemail@gmail.com
+630,KINGSLEY ONU,,ENUGU,samsung phone,,1.0,24/10/2024,paid,esther@mail.com
+631,EMEKA UZO,,KADUNA,samsung phone,,1.0,2024/10/08,failed,no email
+632,janet olawale,,ABUJA,airpods,,1.0,2024-10-21,paid,unkwoknemail@gmail.com
+633,amaka obinna,,LAGOS,iphone x,,1.0,2024-11-05,pending,blessing@mail.com
+634,FAITH JOHN,,LAGOS,hp laptop,,1.0,30-10-2024,failed,unkwoknemail@gmail.com
+635,VICTOR ADE,,ABUJA,samsung phone,,1.0,Nov 16 2024,failed,gbenga@
+636,musa danjuma,08005741659,ENUGU,hp laptop,,3.0,16/10/2024,paid,chinedu@email.com
+637,janet olawale,08083276350,JOS,samsung phone,,1.0,19-11-2024,failed,emeka@mail.com
+638,oluchi oke,,LAGOS,infinix phone,,1.0,2024-10-12,failed, no email
+639,adebayo femi,08089050798,JOS,hp laptop,,2.0,2024/11/12,paid,amina@email.com
+640,sarah ben,,PORT HARCOURT,samsung phone,,1.0,2024-11-25,paid,danokoro@mail
+641,joy okafor,08053897341,JOS,samsung phone,,1.0,06-10-2024,failed,musa@mail.com
+642,adebayo femi,,JOS,iphone x,,1.0,30-10-2024,pending,musa@mail.com
+643,daniel okoro,08043653845,JOS,hp laptop,,1.0,2024/10/20,pending,chika@mail.com
+644,ESTHER JOHN,,JOS,iphone x,,3.0,2024/10/29,paid,unkwoknemail@gmail.com
+645,VICTOR ADE,08002282811,ENUGU,infinix phone,,1.0,28/10/2024,pending,kingsley@mail.com
+646,VICTOR ADE,08064394537,LAGOS,airpods,,3.0,16-10-2024,pending,unkwoknemail@gmail.com
+647,joy okafor,08003782640,ABUJA,hp laptop,,1.0,2024/10/24,pending,emeka@mail.com
+648,sarah ben,08070909925,KADUNA,airpods,,1.0,05/10/2024,pending,sarah@mail
+649,Blessing Okorie,08008230924,ABUJA,hp laptop,,1.0,2024/10/04,paid,unkwoknemail@gmail.com
+650,FAITH JOHN,08014563716,PORT HARCOURT,iphone x,,1.0,2024-10-02,pending,danokoro@mail
+651,ESTHER JOHN,,ENUGU,samsung phone,,2.0,Nov 14 2024,paid,amaka@
+652,amaka obinna,08067905998,ENUGU,infinix phone,,1.0,07/11/2024,paid,kingsley@mail.com
+653,Michael Peters,08078098487,PORT HARCOURT,infinix phone,,1.0,19-10-2024,pending,unkwoknemail@gmail.com
+654,Chinedu Okafor,,ENUGU,hp laptop,,3.0,2024-10-29,paid,kingsley@mail.com
+655,adebayo femi,,PORT HARCOURT,hp laptop,,1.0,Oct 29 2024,pending,abdul@mail
+656,CHIKA ONUOHA,08043958456,PORT HARCOURT,samsung phone,,1.0,04/10/2024,paid,chinedu@email.com
+657,amina ibrahim,08007449927,KADUNA,iphone x,,3.0,2024/10/11,failed,no email
+658,ESTHER JOHN,08021859102,JOS,infinix phone,,3.0,2024/11/30,paid,blessing@mail.com
+659,gbenga isaac,,LAGOS,samsung phone,,1.0,2024-11-08,pending,amaka@
+660,CHINEDU OKAFOR,08033762193,ABUJA,samsung phone,,1.0,2024-10-28,failed,emeka@mail.com
+661,FAITH JOHN,,ABUJA,airpods,,3.0,06/10/2024,pending,adefemi@mail
+662,musa danjuma,,JOS,hp laptop,,1.0,2024/10/13,failed,unkwoknemail@gmail.com
+663,sarah ben,,JOS,iphone x,,3.0,20/11/2024,pending,chika@mail.com
+664,CHINEDU OKAFOR,08064724846,ABUJA,hp laptop,,1.0,10-10-2024,paid,gbenga@
+665,amaka obinna,08072960651,PORT HARCOURT,iphone x,,1.0,Oct 05 2024,failed,janet@mail.com
+666,Blessing Okorie,08057776995,JOS,hp laptop,,1.0,2024-11-10,pending,amaka@
+667,amina ibrahim,,PORT HARCOURT,samsung phone,,1.0,20/10/2024,paid,unkwoknemail@gmail.com
+668,adebayo femi,,LAGOS,airpods,,1.0,23-11-2024,pending,danokoro@mail
+669,Chinedu Okafor,,ENUGU,samsung phone,,2.0,2024/11/09,pending,faith@gmail.com
+670,sarah ben,08013967438,JOS,iphone x,,1.0,03-11-2024,paid,amina@email.com
+671,CHINEDU OKAFOR,08026533481,KADUNA,samsung phone,,1.0,12/11/2024,paid,musa@mail.com
+672,CHINEDU OKAFOR,08068129861,KADUNA,samsung phone,,1.0,2024-10-22,paid,unkwoknemail@gmail.com
+673,amaka obinna,08045685325,KADUNA,infinix phone,,1.0,2024/11/06,paid,danokoro@mail
+674,KINGSLEY ONU,08028500598,ABUJA,samsung phone,,1.0,Nov 13 2024,failed,chinedu@email.com
+675,amina ibrahim,08053494100,PORT HARCOURT,infinix phone,,1.0,2024/11/09,paid,amina@email.com
+676,ferdinand nwoke,08031596490,LAGOS,iphone x,,3.0,2024-11-16,paid,unkwoknemail@gmail.com
+677,KINGSLEY ONU,08057524285,ABUJA,hp laptop,,1.0,2024-11-07,paid,emeka@mail.com
+678,amina ibrahim,,LAGOS,iphone x,,1.0,2024/11/21,paid,unkwoknemail@gmail.com
+679,musa danjuma,08048547584,LAGOS,hp laptop,,1.0,24-11-2024,pending,emeka@mail.com
+680,ferdinand nwoke,08025215090,LAGOS,infinix phone,,1.0,2024/11/25,failed,emeka@mail.com
+681,janet olawale,08058721655,PORT HARCOURT,infinix phone,,1.0,01-11-2024,failed,abdul@mail
+682,Michael Peters,,LAGOS,samsung phone,,1.0,16-10-2024,paid,unkwoknemail@gmail.com
+683,KINGSLEY ONU,08078755385,ENUGU,hp laptop,,2.0,Oct 05 2024,paid, no email
+684,janet olawale,08025676130,PORT HARCOURT,infinix phone,,3.0,2024-11-16,failed,oluchioke@mail
+685,ferdinand nwoke,,PORT HARCOURT,infinix phone,,1.0,26-11-2024,pending,sarah@mail
+686,Michael Peters,,LAGOS,iphone x,,1.0,2024-11-21,pending,musa@mail.com
+687,EMEKA UZO,,LAGOS,iphone x,,3.0,30/10/2024,failed,chika@mail.com
+688,CHIKA ONUOHA,08005165332,ENUGU,iphone x,,1.0,2024/11/28,failed,oluchioke@mail
+689,Michael Peters,,KADUNA,iphone x,,2.0,25-11-2024,failed,faith@gmail.com
+690,KINGSLEY ONU,08052471392,ABUJA,hp laptop,,1.0,2024/11/11,pending,oluchioke@mail
+691,oluchi oke,08043181488,JOS,hp laptop,,2.0,18-11-2024,failed,adefemi@mail
+692,TUNDE BAKARE,,ABUJA,hp laptop,,1.0,Oct 17 2024,pending,faith@gmail.com
+693,VICTOR ADE,,PORT HARCOURT,hp laptop,,2.0,25/10/2024,failed,adefemi@mail
+694,joy okafor,,LAGOS,infinix phone,,2.0,2024-10-29,pending,oluchioke@mail
+695,GRACE DANIEL,08069252391,ABUJA,iphone x,,3.0,2024-11-11,pending,abdul@mail
+696,ABDUL BELLO,08076139735,LAGOS,airpods,,3.0,31/10/2024,pending,musa@mail.com
+697,ESTHER JOHN,08037106191,JOS,iphone x,,3.0,Oct 08 2024,pending,unkwoknemail@gmail.com
+698,KINGSLEY ONU,,PORT HARCOURT,samsung phone,,1.0,16/11/2024,pending,sarah@mail
+699,ifeoma igwe,,PORT HARCOURT,samsung phone,,1.0,05-11-2024,paid,chika@mail.com
+700,GRACE DANIEL,08026465445,PORT HARCOURT,samsung phone,,2.0,2024/10/13,failed,gbenga@
+701,KINGSLEY ONU,,LAGOS,iphone x,,1.0,2024/11/08,pending,chinedu@email.com
+702,janet olawale,08017370292,PORT HARCOURT,airpods,,1.0,2024-11-20,pending,unkwoknemail@gmail.com
+703,CHIKA ONUOHA,,PORT HARCOURT,iphone x,,2.0,Nov 12 2024,paid,unkwoknemail@gmail.com
+704,amina ibrahim,,JOS,iphone x,,1.0,16-10-2024,pending,musa@mail.com
+705,ESTHER JOHN,08056256160,KADUNA,infinix phone,,2.0,2024-10-29,pending,amina@email.com
+706,CHIKA ONUOHA,08087598213,ABUJA,iphone x,,1.0,31/10/2024,paid,janet@mail.com
+707,gbenga isaac,,ABUJA,infinix phone,,1.0,2024/10/29,pending,blessing@mail.com
+708,daniel okoro,08095728090,PORT HARCOURT,iphone x,,1.0,17/11/2024,paid,amaka@
+709,ESTHER JOHN,08091689807,KADUNA,samsung phone,,2.0,Oct 25 2024,paid,musa@mail.com
+710,oluchi oke,08099079837,PORT HARCOURT,samsung phone,,3.0,Nov 29 2024,pending,amaka@
+711,GRACE DANIEL,08074788295,LAGOS,airpods,,2.0,16/10/2024,paid,gbenga@
+712,CHIKA ONUOHA,08075791845,ENUGU,samsung phone,,1.0,2024-11-24,failed,chika@mail.com
+713,amaka obinna,08014223222,LAGOS,infinix phone,,1.0,17/11/2024,paid,musa@mail.com
+714,ferdinand nwoke,08015323280,PORT HARCOURT,iphone x,,2.0,Oct 01 2024,paid,sarah@mail
+715,Michael Peters,08088485685,ENUGU,samsung phone,,3.0,18/11/2024,pending,abdul@mail
+716,TUNDE BAKARE,08051898208,ABUJA,hp laptop,,1.0,17/10/2024,paid,unkwoknemail@gmail.com
+717,KINGSLEY ONU,08047601383,LAGOS,samsung phone,,1.0,12-11-2024,paid,chika@mail.com
+718,CHINEDU OKAFOR,,JOS,samsung phone,,2.0,26-10-2024,paid,blessing@mail.com
+719,KINGSLEY ONU,,ABUJA,iphone x,,1.0,Nov 25 2024,pending,emeka@mail.com
+720,EMEKA UZO,08026746456,JOS,infinix phone,,3.0,08-11-2024,pending,musa@mail.com
+721,adebayo femi,,KADUNA,samsung phone,,2.0,Oct 20 2024,paid,oluchioke@mail
+722,ESTHER JOHN,,ENUGU,iphone x,,3.0,2024-11-29,failed,chinedu@email.com
+723,sarah ben,08027563476,KADUNA,samsung phone,,3.0,12-11-2024,paid,sarah@mail
+724,EMEKA UZO,,KADUNA,airpods,,1.0,Nov 19 2024,paid,danokoro@mail
+725,TUNDE BAKARE,,PORT HARCOURT,hp laptop,,2.0,2024-11-04,pending,kingsley@mail.com
+726,TUNDE BAKARE,08041154391,ENUGU,samsung phone,,3.0,25-11-2024,pending,sarah@mail
+727,VICTOR ADE,08028290281,LAGOS,iphone x,,1.0,26-10-2024,paid,abdul@mail
+728,ESTHER JOHN,,LAGOS,iphone x,,1.0,12-11-2024,pending,unkwoknemail@gmail.com
+729,FAITH JOHN,08072576404,ABUJA,samsung phone,,1.0,27/10/2024,pending,chika@mail.com
+730,Chinedu Okafor,08006974058,ABUJA,hp laptop,,3.0,2024/10/20,paid,chika@mail.com
+731,FAITH JOHN,08065907419,JOS,airpods,,1.0,Oct 04 2024,pending,musa@mail.com
+732,ABDUL BELLO,08030067145,LAGOS,hp laptop,,1.0,27/10/2024,paid,danokoro@mail
+733,joy okafor,08029805009,PORT HARCOURT,infinix phone,,1.0,2024-10-07,pending,gbenga@
+734,amina ibrahim,08084533949,LAGOS,airpods,,3.0,2024/10/27,pending,esther@mail.com
+735,CHIKA ONUOHA,,ABUJA,airpods,,2.0,Oct 25 2024,paid,unkwoknemail@gmail.com
+736,ABDUL BELLO,08057157655,PORT HARCOURT,samsung phone,,1.0,Oct 08 2024,failed,oluchioke@mail
+737,gbenga isaac,,KADUNA,airpods,,1.0,2024/11/08,paid, no email
+738,gbenga isaac,08009100661,LAGOS,hp laptop,,2.0,04/10/2024,paid,blessing@mail.com
+739,adebayo femi,08077934352,LAGOS,airpods,,2.0,2024-10-25,pending,adefemi@mail
+740,musa danjuma,08058379299,LAGOS,samsung phone,,1.0,2024-10-10,paid,abdul@mail
+741,Chinedu Okafor,08018138402,PORT HARCOURT,hp laptop,,1.0,15-11-2024,paid,faith@gmail.com
+742,ABDUL BELLO,08081380730,LAGOS,infinix phone,,1.0,28/10/2024,pending,chinedu@email.com
+743,Blessing Okorie,08005515128,KADUNA,hp laptop,,1.0,2024-10-14,paid,unkwoknemail@gmail.com
+744,adebayo femi,,KADUNA,iphone x,,3.0,2024/10/26,paid,amaka@
+745,EMEKA UZO,,JOS,airpods,,3.0,Oct 16 2024,pending,amina@email.com
+746,janet olawale,08002589853,ENUGU,iphone x,,1.0,2024-11-13,pending, no email
+747,KINGSLEY ONU,,ENUGU,samsung phone,,1.0,30-11-2024,pending,kingsley@mail.com
+748,VICTOR ADE,,ENUGU,airpods,,1.0,2024/10/18,pending,kingsley@mail.com
+749,ifeoma igwe,,ENUGU,hp laptop,,1.0,01-10-2024,paid,no email
+750,CHINEDU OKAFOR,08018327216,KADUNA,infinix phone,,3.0,28/11/2024,failed,abdul@mail
+751,FAITH JOHN,08049007159,ENUGU,samsung phone,,1.0,23/11/2024,paid,gbenga@
+752,adebayo femi,08084403553,ABUJA,iphone x,,2.0,20/11/2024,paid,oluchioke@mail
+753,janet olawale,08045252296,ENUGU,hp laptop,,1.0,Nov 01 2024,pending,no email
+754,ferdinand nwoke,08079830560,PORT HARCOURT,samsung phone,,1.0,2024-10-07,pending,chinedu@email.com
+755,KINGSLEY ONU,08023647977,LAGOS,samsung phone,,2.0,2024-11-25,failed,unkwoknemail@gmail.com
+756,CHINEDU OKAFOR,,ENUGU,infinix phone,,2.0,Oct 21 2024,failed,adefemi@mail
+757,sarah ben,,JOS,samsung phone,,1.0,11/10/2024,pending,abdul@mail
+758,GRACE DANIEL,08010498296,ABUJA,samsung phone,,3.0,2024-10-28,pending,janet@mail.com
+759,TUNDE BAKARE,,KADUNA,samsung phone,,1.0,23/10/2024,paid,oluchioke@mail
+760,ABDUL BELLO,,JOS,infinix phone,,1.0,Nov 02 2024,paid,chinedu@email.com
+761,Chinedu Okafor,08042195952,KADUNA,airpods,,1.0,29/11/2024,pending,unkwoknemail@gmail.com
+762,KINGSLEY ONU,08070640992,KADUNA,airpods,,3.0,2024/10/31,pending,sarah@mail
+763,adebayo femi,08072019343,JOS,samsung phone,,1.0,18/11/2024,pending,musa@mail.com
+764,VICTOR ADE,,JOS,samsung phone,,1.0,15-10-2024,paid,musa@mail.com
+765,adebayo femi,08039584671,ENUGU,iphone x,,2.0,2024-11-07,pending,musa@mail.com
+766,Michael Peters,08014127474,PORT HARCOURT,samsung phone,,3.0,2024-10-25,pending,abdul@mail
+767,Michael Peters,08079650271,PORT HARCOURT,hp laptop,,3.0,Nov 22 2024,failed,janet@mail.com
+768,ABDUL BELLO,,ABUJA,samsung phone,,1.0,2024-11-30,pending,chinedu@email.com
+769,Chinedu Okafor,,ABUJA,airpods,,2.0,2024/11/25,paid,blessing@mail.com
+770,ferdinand nwoke,08079902744,ABUJA,hp laptop,,1.0,2024-11-02,pending,adefemi@mail
+771,GRACE DANIEL,,JOS,samsung phone,,3.0,Oct 13 2024,pending,unkwoknemail@gmail.com
+772,CHIKA ONUOHA,08073666423,LAGOS,samsung phone,,3.0,20/10/2024,pending,musa@mail.com
+773,ferdinand nwoke,,ENUGU,hp laptop,,1.0,2024/11/06,paid,unkwoknemail@gmail.com
+774,ESTHER JOHN,,JOS,hp laptop,,2.0,2024-11-26,paid,chinedu@email.com
+775,adebayo femi,,LAGOS,infinix phone,,1.0,Nov 20 2024,pending,sarah@mail
+776,ifeoma igwe,,PORT HARCOURT,hp laptop,,3.0,07/11/2024,pending,sarah@mail
+777,Blessing Okorie,,KADUNA,iphone x,,3.0,Nov 08 2024,failed,chika@mail.com
+778,amina ibrahim,08054656821,PORT HARCOURT,samsung phone,,3.0,Nov 22 2024,failed,gbenga@
+779,EMEKA UZO,,ABUJA,hp laptop,,1.0,2024/10/11,pending,chinedu@email.com
+780,TUNDE BAKARE,08070421960,ENUGU,airpods,,1.0,Oct 14 2024,pending,unkwoknemail@gmail.com
+781,gbenga isaac,,ENUGU,airpods,,1.0,2024/11/24,paid,amina@email.com
+782,amina ibrahim,,ENUGU,airpods,,1.0,29-10-2024,pending,unkwoknemail@gmail.com
+783,musa danjuma,,LAGOS,iphone x,,1.0,19-11-2024,pending,musa@mail.com
+784,Chinedu Okafor,08047410961,JOS,samsung phone,,1.0,2024/11/22,pending,gbenga@
+785,CHINEDU OKAFOR,08077663505,ENUGU,infinix phone,,1.0,26-10-2024,pending,oluchioke@mail
+786,FAITH JOHN,,KADUNA,samsung phone,,2.0,Nov 28 2024,pending,adefemi@mail
+787,Chinedu Okafor,,JOS,hp laptop,,3.0,2024-11-28,pending,unkwoknemail@gmail.com
+788,CHIKA ONUOHA,08065018636,LAGOS,iphone x,,2.0,2024/11/08,paid,abdul@mail
+789,ifeoma igwe,08034129963,KADUNA,hp laptop,,1.0,2024-11-11,failed,unkwoknemail@gmail.com
+790,oluchi oke,08084593736,PORT HARCOURT,hp laptop,,1.0,Nov 08 2024,paid,abdul@mail
+791,CHIKA ONUOHA,08008115291,ENUGU,hp laptop,,1.0,19/10/2024,paid,emeka@mail.com
+792,joy okafor,,KADUNA,hp laptop,,3.0,2024-11-01,paid,adefemi@mail
+793,sarah ben,08048922492,PORT HARCOURT,iphone x,,3.0,2024-11-02,pending,gbenga@
+794,amina ibrahim,08034556345,KADUNA,airpods,,2.0,2024-10-20,failed,chinedu@email.com
+795,amaka obinna,08073138533,LAGOS,airpods,,1.0,02-11-2024,paid,oluchioke@mail
+796,joy okafor,08011851480,PORT HARCOURT,iphone x,,3.0,2024/10/30,pending,faith@gmail.com
+797,amaka obinna,,LAGOS,samsung phone,,2.0,Nov 30 2024,pending,musa@mail.com
+798,ifeoma igwe,08044901010,LAGOS,iphone x,,2.0,16/10/2024,pending,abdul@mail
+799,ESTHER JOHN,,ENUGU,hp laptop,,1.0,Nov 20 2024,paid,unkwoknemail@gmail.com
+800,ifeoma igwe,08031506801,PORT HARCOURT,airpods,,1.0,16/10/2024,pending,adefemi@mail
+801,ABDUL BELLO,08041272460,ENUGU,iphone x,,3.0,2024/10/09,pending,chinedu@email.com
+802,ferdinand nwoke,08084761825,KADUNA,iphone x,,3.0,2024-11-28,pending,sarah@mail
+803,EMEKA UZO,08053820427,ENUGU,samsung phone,,1.0,2024/10/27,pending,abdul@mail
+804,gbenga isaac,,ENUGU,samsung phone,,1.0,2024-11-26,pending,sarah@mail
+805,amaka obinna,,KADUNA,airpods,,2.0,2024/10/15,pending,unkwoknemail@gmail.com
+806,ferdinand nwoke,08051281806,LAGOS,iphone x,,1.0,Nov 27 2024,pending,blessing@mail.com
+807,CHIKA ONUOHA,,PORT HARCOURT,iphone x,,3.0,30-11-2024,pending,chinedu@email.com
+808,Michael Peters,,ABUJA,airpods,,3.0,Nov 08 2024,pending,unkwoknemail@gmail.com
+809,EMEKA UZO,,LAGOS,hp laptop,,2.0,2024/11/23,failed,danokoro@mail
+810,musa danjuma,08062442634,PORT HARCOURT,airpods,,1.0,03-10-2024,paid,janet@mail.com
+811,Blessing Okorie,,JOS,infinix phone,,1.0,2024/10/30,paid,amina@email.com
+812,amaka obinna,08032211017,ABUJA,hp laptop,,1.0,Nov 28 2024,failed,esther@mail.com
+813,janet olawale,08036960408,ABUJA,airpods,,1.0,2024/11/14,paid,kingsley@mail.com
+814,musa danjuma,08028052976,JOS,infinix phone,,2.0,2024-10-10,failed, no email
+815,ferdinand nwoke,,JOS,infinix phone,,1.0,Oct 28 2024,pending,adefemi@mail
+816,TUNDE BAKARE,,ABUJA,samsung phone,,1.0,Oct 30 2024,pending,danokoro@mail
+817,adebayo femi,,LAGOS,hp laptop,,1.0,2024-11-18,paid,esther@mail.com
+818,gbenga isaac,,ABUJA,airpods,,1.0,Oct 10 2024,pending,chinedu@email.com
+819,FAITH JOHN,08011807384,JOS,hp laptop,,1.0,22/11/2024,failed,chinedu@email.com
+820,CHIKA ONUOHA,,PORT HARCOURT,infinix phone,,3.0,Oct 01 2024,failed, no email
+821,GRACE DANIEL,08052537083,PORT HARCOURT,airpods,,3.0,Oct 26 2024,failed,blessing@mail.com
+822,sarah ben,08018350838,KADUNA,iphone x,,1.0,18-10-2024,failed,blessing@mail.com
+823,FAITH JOHN,,LAGOS,iphone x,,1.0,20-10-2024,paid,kingsley@mail.com
+824,adebayo femi,08070735412,KADUNA,airpods,,2.0,Nov 23 2024,paid,oluchioke@mail
+825,KINGSLEY ONU,08064971946,LAGOS,iphone x,,2.0,10/10/2024,paid,amina@email.com
+826,joy okafor,,KADUNA,iphone x,,1.0,30-11-2024,paid,oluchioke@mail
+827,GRACE DANIEL,08087335613,KADUNA,hp laptop,,1.0,23/10/2024,paid,chika@mail.com
+828,amaka obinna,,ENUGU,iphone x,,3.0,23-11-2024,paid,kingsley@mail.com
+829,gbenga isaac,08061301137,KADUNA,airpods,,1.0,2024-10-10,failed, no email
+830,Blessing Okorie,08023207273,KADUNA,samsung phone,,3.0,16/11/2024,failed,chika@mail.com
+831,Chinedu Okafor,08076599892,KADUNA,iphone x,,1.0,2024/10/07,pending,chinedu@email.com
+832,gbenga isaac,,JOS,infinix phone,,1.0,2024-10-29,pending,blessing@mail.com
+833,joy okafor,,JOS,infinix phone,,3.0,20/11/2024,pending,unkwoknemail@gmail.com
+834,EMEKA UZO,08050920282,KADUNA,infinix phone,,3.0,2024-11-09,paid,emeka@mail.com
+835,Chinedu Okafor,,ABUJA,hp laptop,,1.0,Nov 12 2024,paid,abdul@mail
+836,janet olawale,08031229367,JOS,samsung phone,,1.0,2024-10-17,pending,emeka@mail.com
+837,oluchi oke,08065711515,LAGOS,samsung phone,,1.0,Nov 05 2024,paid,abdul@mail
+838,amaka obinna,08036509769,KADUNA,iphone x,,3.0,19/11/2024,pending,blessing@mail.com
+839,VICTOR ADE,08055366116,JOS,iphone x,,1.0,2024/10/26,paid,esther@mail.com
+840,musa danjuma,,ENUGU,iphone x,,1.0,21/10/2024,pending,unkwoknemail@gmail.com
+841,daniel okoro,,LAGOS,infinix phone,,3.0,Oct 31 2024,paid,no email
+842,FAITH JOHN,08069044756,ENUGU,airpods,,3.0,2024-11-26,pending,adefemi@mail
+843,ifeoma igwe,,KADUNA,samsung phone,,1.0,2024/10/18,pending,danokoro@mail
+844,joy okafor,08074729415,ENUGU,hp laptop,,1.0,2024/10/30,pending,janet@mail.com
+845,oluchi oke,,PORT HARCOURT,infinix phone,,1.0,04-10-2024,failed,musa@mail.com
+846,oluchi oke,08084707485,LAGOS,hp laptop,,2.0,11/10/2024,pending,no email
+847,joy okafor,,PORT HARCOURT,samsung phone,,2.0,11-10-2024,pending,faith@gmail.com
+848,ifeoma igwe,08093580970,ENUGU,samsung phone,,1.0,25-10-2024,paid,sarah@mail
+849,GRACE DANIEL,08022851192,PORT HARCOURT,samsung phone,,2.0,08-11-2024,failed,chinedu@email.com
+850,gbenga isaac,,ENUGU,hp laptop,,2.0,17/11/2024,pending,sarah@mail
+851,ifeoma igwe,08069531520,JOS,iphone x,,1.0,2024-11-20,paid,unkwoknemail@gmail.com
+852,ifeoma igwe,08070599651,KADUNA,airpods,,1.0,Nov 18 2024,pending,emeka@mail.com
+853,VICTOR ADE,08025143891,LAGOS,samsung phone,,2.0,21-11-2024,paid, no email
+854,VICTOR ADE,08008457814,LAGOS,iphone x,,2.0,2024-11-28,failed,esther@mail.com
+855,ABDUL BELLO,,ENUGU,samsung phone,,2.0,15-11-2024,paid,oluchioke@mail
+856,oluchi oke,,JOS,airpods,,1.0,25-10-2024,paid,musa@mail.com
+857,Blessing Okorie,08009891718,JOS,iphone x,,1.0,Nov 04 2024,failed,oluchioke@mail
+858,janet olawale,,LAGOS,hp laptop,,1.0,Nov 13 2024,pending, no email
+859,musa danjuma,08051543900,KADUNA,hp laptop,,2.0,2024/11/14,pending,unkwoknemail@gmail.com
+860,Chinedu Okafor,08060457743,ENUGU,iphone x,,1.0,24-11-2024,paid,kingsley@mail.com
+861,sarah ben,08082501282,LAGOS,hp laptop,,2.0,Oct 18 2024,failed,unkwoknemail@gmail.com
+862,oluchi oke,08005475367,KADUNA,iphone x,,2.0,26-11-2024,failed,danokoro@mail
+863,KINGSLEY ONU,08048228353,LAGOS,airpods,,1.0,Oct 11 2024,failed,adefemi@mail
+864,Michael Peters,,LAGOS,infinix phone,,1.0,03/11/2024,paid,kingsley@mail.com
+865,adebayo femi,,LAGOS,airpods,,1.0,02-11-2024,failed,unkwoknemail@gmail.com
+866,ESTHER JOHN,08043314447,KADUNA,airpods,,1.0,Nov 24 2024,paid,esther@mail.com
+867,oluchi oke,08099316880,KADUNA,airpods,,2.0,18/10/2024,paid,chika@mail.com
+868,adebayo femi,,JOS,hp laptop,,1.0,06-10-2024,pending,chinedu@email.com
+869,Chinedu Okafor,08044958885,KADUNA,airpods,,1.0,2024/11/16,failed,oluchioke@mail
+870,Michael Peters,08093940846,ENUGU,samsung phone,,1.0,Nov 19 2024,paid,chinedu@email.com
+871,amaka obinna,08014773182,ABUJA,iphone x,,1.0,09-11-2024,paid,unkwoknemail@gmail.com
+872,ifeoma igwe,08086625915,LAGOS,hp laptop,,2.0,2024-11-03,pending,musa@mail.com
+873,GRACE DANIEL,,LAGOS,iphone x,,1.0,2024-11-08,pending,no email
+874,VICTOR ADE,08094999378,KADUNA,infinix phone,,2.0,13-10-2024,paid,kingsley@mail.com
+875,amina ibrahim,08060821908,ENUGU,iphone x,,1.0,07-11-2024,pending,kingsley@mail.com
+876,joy okafor,,ABUJA,hp laptop,,1.0,08/11/2024,paid,gbenga@
+877,CHIKA ONUOHA,,KADUNA,infinix phone,,1.0,2024-10-05,failed,emeka@mail.com
+878,CHIKA ONUOHA,08068824146,LAGOS,hp laptop,,1.0,12-10-2024,failed,janet@mail.com
+879,ABDUL BELLO,,ABUJA,hp laptop,,1.0,13/10/2024,paid,gbenga@
+880,FAITH JOHN,08007500734,ABUJA,samsung phone,,1.0,2024/11/28,paid,esther@mail.com
+881,CHIKA ONUOHA,,KADUNA,iphone x,,1.0,22-10-2024,paid,chika@mail.com
+882,GRACE DANIEL,08088630228,ABUJA,samsung phone,,1.0,2024-11-03,failed,chinedu@email.com
+883,CHIKA ONUOHA,08079658932,KADUNA,iphone x,,1.0,2024/11/28,failed, no email
+884,sarah ben,08019421945,KADUNA,hp laptop,,1.0,11-11-2024,failed,gbenga@
+885,KINGSLEY ONU,08038109928,ABUJA,iphone x,,3.0,05/11/2024,failed,no email
+886,ifeoma igwe,08036186381,ABUJA,samsung phone,,1.0,2024/10/17,failed,chika@mail.com
+887,ferdinand nwoke,,ABUJA,airpods,,1.0,26-11-2024,paid,unkwoknemail@gmail.com
+888,Chinedu Okafor,08090046431,KADUNA,samsung phone,,1.0,2024-11-22,paid,unkwoknemail@gmail.com
+889,daniel okoro,,KADUNA,hp laptop,,1.0,11/10/2024,paid,gbenga@
+890,EMEKA UZO,,KADUNA,iphone x,,1.0,2024/10/03,pending,janet@mail.com
+891,amina ibrahim,08083846506,ENUGU,iphone x,,3.0,2024/11/16,failed,gbenga@
+892,janet olawale,08002779293,PORT HARCOURT,iphone x,,1.0,Nov 04 2024,pending,janet@mail.com
+893,daniel okoro,,ABUJA,infinix phone,,3.0,Nov 01 2024,failed,amina@email.com
+894,janet olawale,,JOS,samsung phone,,1.0,22/10/2024,paid,amaka@
+895,janet olawale,08067854234,PORT HARCOURT,infinix phone,,1.0,15-11-2024,failed,amina@email.com
+896,musa danjuma,08044934214,ABUJA,samsung phone,,2.0,15-10-2024,pending,oluchioke@mail
+897,musa danjuma,08084102612,PORT HARCOURT,hp laptop,,1.0,03-11-2024,failed,adefemi@mail
+898,amaka obinna,08083110673,ABUJA,airpods,,1.0,Nov 10 2024,pending,unkwoknemail@gmail.com
+899,EMEKA UZO,,LAGOS,iphone x,,1.0,03/10/2024,pending,no email
+900,TUNDE BAKARE,08048310504,PORT HARCOURT,hp laptop,,1.0,19-10-2024,failed,sarah@mail
+901,amaka obinna,08016608243,JOS,airpods,,3.0,2024/10/25,failed,unkwoknemail@gmail.com
+902,CHIKA ONUOHA,,ENUGU,infinix phone,,3.0,2024-11-21,pending,oluchioke@mail
+903,CHINEDU OKAFOR,08040948821,ABUJA,airpods,,3.0,30-10-2024,failed,abdul@mail
+904,daniel okoro,,KADUNA,airpods,,1.0,2024/11/26,paid,esther@mail.com
+905,oluchi oke,08025823649,ABUJA,samsung phone,,1.0,2024/11/30,failed,unkwoknemail@gmail.com
+906,CHIKA ONUOHA,08091408700,ENUGU,airpods,,3.0,07-11-2024,pending,no email
+907,daniel okoro,,LAGOS,iphone x,,1.0,2024-10-25,failed,unkwoknemail@gmail.com
+908,janet olawale,08045997626,JOS,hp laptop,,3.0,05-10-2024,pending,adefemi@mail
+909,musa danjuma,08066859793,JOS,infinix phone,,1.0,2024-10-02,pending,amina@email.com
+910,gbenga isaac,,LAGOS,hp laptop,,2.0,04/11/2024,paid,emeka@mail.com
+911,ESTHER JOHN,,LAGOS,samsung phone,,1.0,Oct 13 2024,paid,chinedu@email.com
+912,GRACE DANIEL,,JOS,iphone x,,3.0,2024/10/27,pending,danokoro@mail
+913,ferdinand nwoke,08055055406,LAGOS,infinix phone,,1.0,2024-10-02,pending,unkwoknemail@gmail.com
+914,amina ibrahim,08077416676,ENUGU,infinix phone,,3.0,2024-11-10,paid,chika@mail.com
+915,VICTOR ADE,08087209820,ABUJA,hp laptop,,1.0,2024/10/16,failed,esther@mail.com
+916,amina ibrahim,08046130437,ABUJA,hp laptop,,3.0,11/10/2024,pending,adefemi@mail
+917,Blessing Okorie,,PORT HARCOURT,samsung phone,,1.0,Oct 18 2024,paid,chinedu@email.com
+918,GRACE DANIEL,,LAGOS,iphone x,,3.0,2024-11-23,pending,emeka@mail.com
+919,TUNDE BAKARE,08092283970,KADUNA,iphone x,,1.0,08-10-2024,paid,janet@mail.com
+920,EMEKA UZO,08067257310,LAGOS,samsung phone,,1.0,14/10/2024,failed,janet@mail.com
+921,CHIKA ONUOHA,08022263214,KADUNA,iphone x,,1.0,2024-11-15,pending,chinedu@email.com
+922,FAITH JOHN,08083680267,LAGOS,hp laptop,,1.0,29/11/2024,paid,amina@email.com
+923,ESTHER JOHN,,KADUNA,infinix phone,,1.0,28-10-2024,pending,amaka@
+924,CHIKA ONUOHA,08035408156,JOS,hp laptop,,1.0,Oct 17 2024,pending,unkwoknemail@gmail.com
+925,sarah ben,08037807477,KADUNA,iphone x,,1.0,2024/11/06,failed,unkwoknemail@gmail.com
+926,ABDUL BELLO,08037672236,JOS,iphone x,,1.0,2024/11/27,pending,unkwoknemail@gmail.com
+927,musa danjuma,08042355710,ENUGU,airpods,,1.0,Oct 18 2024,pending,chika@mail.com
+928,KINGSLEY ONU,08057297761,JOS,hp laptop,,1.0,2024/11/01,failed,chinedu@email.com
+929,gbenga isaac,08065241622,KADUNA,samsung phone,,1.0,2024/11/09,pending,unkwoknemail@gmail.com
+930,ABDUL BELLO,08048645002,ENUGU,iphone x,,1.0,21/10/2024,paid,kingsley@mail.com
+931,daniel okoro,,ENUGU,samsung phone,,1.0,10-10-2024,pending,no email
+932,oluchi oke,,ABUJA,infinix phone,,2.0,Oct 06 2024,pending,abdul@mail
+933,EMEKA UZO,,KADUNA,samsung phone,,1.0,2024-11-30,paid,unkwoknemail@gmail.com
+934,VICTOR ADE,,ABUJA,iphone x,,3.0,10-10-2024,failed,sarah@mail
+935,Blessing Okorie,08082338172,LAGOS,infinix phone,,1.0,2024-10-05,pending,gbenga@
+936,KINGSLEY ONU,08013115962,LAGOS,hp laptop,,1.0,31-10-2024,pending,sarah@mail
+937,ESTHER JOHN,08054598591,ENUGU,hp laptop,,3.0,2024/11/07,paid,esther@mail.com
+938,KINGSLEY ONU,,ABUJA,iphone x,,2.0,20/10/2024,failed,emeka@mail.com
+939,joy okafor,08024270314,PORT HARCOURT,samsung phone,,1.0,Oct 24 2024,paid,unkwoknemail@gmail.com
+940,adebayo femi,,ENUGU,infinix phone,,2.0,2024/11/15,pending,faith@gmail.com
+941,amina ibrahim,08096575905,JOS,hp laptop,,3.0,12/11/2024,pending,unkwoknemail@gmail.com
+942,ifeoma igwe,08077177084,KADUNA,iphone x,,1.0,2024/11/19,paid,unkwoknemail@gmail.com
+943,GRACE DANIEL,,PORT HARCOURT,samsung phone,,1.0,08/11/2024,paid, no email
+944,FAITH JOHN,,KADUNA,iphone x,,1.0,19-10-2024,paid,emeka@mail.com
+945,ABDUL BELLO,,PORT HARCOURT,infinix phone,,1.0,30/11/2024,paid,kingsley@mail.com
+946,ferdinand nwoke,,ENUGU,samsung phone,,1.0,04-11-2024,pending,gbenga@
+947,amaka obinna,08060351679,ABUJA,iphone x,,2.0,Oct 23 2024,pending,unkwoknemail@gmail.com
+948,sarah ben,08034897317,LAGOS,hp laptop,,1.0,Oct 04 2024,pending,chinedu@email.com
+949,daniel okoro,08089158050,LAGOS,hp laptop,,1.0,2024/11/06,paid,faith@gmail.com
+950,EMEKA UZO,08045048973,KADUNA,iphone x,,1.0,2024-10-07,pending,danokoro@mail
+951,ifeoma igwe,08031690361,KADUNA,infinix phone,,1.0,11-10-2024,paid,musa@mail.com
+952,VICTOR ADE,08061567073,KADUNA,iphone x,,1.0,2024-10-24,pending,emeka@mail.com
+953,amaka obinna,,ABUJA,samsung phone,,2.0,2024/10/22,failed,emeka@mail.com
+954,oluchi oke,08026565350,LAGOS,hp laptop,,3.0,2024-10-09,paid,amaka@
+955,Blessing Okorie,,ENUGU,iphone x,,1.0,12/10/2024,pending,faith@gmail.com
+956,ABDUL BELLO,,KADUNA,iphone x,,1.0,2024/10/21,pending,chinedu@email.com
+957,Blessing Okorie,08038274346,KADUNA,infinix phone,,1.0,17/10/2024,pending,oluchioke@mail
+958,Michael Peters,08005588624,ABUJA,hp laptop,,2.0,12-11-2024,paid,chinedu@email.com
+959,gbenga isaac,,ABUJA,iphone x,,2.0,Oct 03 2024,paid,chinedu@email.com
+960,amaka obinna,,ENUGU,airpods,,1.0,2024/10/15,failed,oluchioke@mail
+961,daniel okoro,08031732457,LAGOS,infinix phone,,1.0,28-11-2024,failed,chinedu@email.com
+962,ifeoma igwe,08022702819,LAGOS,samsung phone,,3.0,2024/10/29,paid,unkwoknemail@gmail.com
+963,joy okafor,,KADUNA,infinix phone,,1.0,2024/11/01,failed,esther@mail.com
+964,daniel okoro,,LAGOS,hp laptop,,2.0,21/11/2024,paid,unkwoknemail@gmail.com
+965,KINGSLEY ONU,,LAGOS,hp laptop,,1.0,Oct 31 2024,pending,blessing@mail.com
+966,ferdinand nwoke,08035284312,LAGOS,hp laptop,,3.0,Oct 01 2024,pending,blessing@mail.com
+967,ifeoma igwe,,KADUNA,iphone x,,2.0,Nov 16 2024,paid,blessing@mail.com
+968,CHINEDU OKAFOR,08032430147,ENUGU,airpods,,3.0,2024-11-15,paid, no email
+969,CHIKA ONUOHA,08077094861,LAGOS,infinix phone,,1.0,06-11-2024,paid,oluchioke@mail
+970,CHINEDU OKAFOR,08062943028,ENUGU,iphone x,,2.0,2024/10/09,pending,esther@mail.com
+971,Blessing Okorie,08014797038,LAGOS,samsung phone,,3.0,Oct 09 2024,failed,blessing@mail.com
+972,Michael Peters,08072129947,ENUGU,infinix phone,,1.0,2024/11/21,pending,chinedu@email.com
+973,gbenga isaac,,LAGOS,hp laptop,,1.0,Oct 18 2024,pending,abdul@mail
+974,daniel okoro,,PORT HARCOURT,airpods,,1.0,Nov 01 2024,paid,unkwoknemail@gmail.com
+975,musa danjuma,,KADUNA,infinix phone,,1.0,2024/11/03,paid, no email
+976,ferdinand nwoke,08056602031,ABUJA,iphone x,,3.0,2024-11-23,pending,amina@email.com
+977,janet olawale,,ABUJA,hp laptop,,1.0,03-10-2024,failed,kingsley@mail.com
+978,FAITH JOHN,,PORT HARCOURT,samsung phone,,1.0,Oct 12 2024,failed,amaka@
+979,VICTOR ADE,,LAGOS,iphone x,,1.0,2024-10-26,pending,sarah@mail
+980,EMEKA UZO,,KADUNA,samsung phone,,1.0,19/10/2024,paid,unkwoknemail@gmail.com
+981,TUNDE BAKARE,08066994881,LAGOS,iphone x,,1.0,08/10/2024,paid, no email
+982,CHINEDU OKAFOR,08080138000,LAGOS,samsung phone,,1.0,13/11/2024,pending,unkwoknemail@gmail.com
+983,adebayo femi,08001526036,LAGOS,hp laptop,,3.0,2024/11/25,paid,chika@mail.com
+984,CHINEDU OKAFOR,,PORT HARCOURT,hp laptop,,1.0,Oct 26 2024,failed,unkwoknemail@gmail.com
+985,ferdinand nwoke,08003532578,ENUGU,airpods,,1.0,Oct 05 2024,paid,oluchioke@mail
+986,EMEKA UZO,,JOS,iphone x,,1.0,2024/11/04,pending,amaka@
+987,Blessing Okorie,,ENUGU,samsung phone,,1.0,2024-10-20,failed,oluchioke@mail
+988,adebayo femi,08006364112,PORT HARCOURT,airpods,,2.0,Nov 23 2024,pending,faith@gmail.com
+989,ifeoma igwe,08061353549,ENUGU,hp laptop,,2.0,20/11/2024,pending,chinedu@email.com
+990,ABDUL BELLO,08042034073,ENUGU,samsung phone,,2.0,21-10-2024,paid,janet@mail.com
+991,GRACE DANIEL,08066528856,PORT HARCOURT,hp laptop,,2.0,2024-10-15,failed,unkwoknemail@gmail.com
+992,daniel okoro,,JOS,airpods,,1.0,2024/11/04,failed,kingsley@mail.com
+993,Chinedu Okafor,08056737113,PORT HARCOURT,hp laptop,,2.0,Nov 27 2024,pending,abdul@mail
+994,gbenga isaac,08004649510,ABUJA,iphone x,,1.0,06/10/2024,pending,danokoro@mail
+995,adebayo femi,08036555001,KADUNA,hp laptop,,1.0,18-10-2024,failed,abdul@mail
+996,ESTHER JOHN,08091653511,ABUJA,infinix phone,,1.0,Nov 20 2024,failed,janet@mail.com
+997,daniel okoro,08052060291,LAGOS,hp laptop,,1.0,2024/10/15,failed,gbenga@
+998,KINGSLEY ONU,,KADUNA,samsung phone,,1.0,Nov 08 2024,failed,chinedu@email.com
+999,amina ibrahim,08092074939,LAGOS,samsung phone,,1.0,Nov 16 2024,pending,blessing@mail.com
+1000,FAITH JOHN,08020548105,ENUGU,samsung phone,,1.0,24/10/2024,paid,unkwoknemail@gmail.com
