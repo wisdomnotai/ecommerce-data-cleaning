@@ -1,0 +1,1001 @@
+OrderID,State,Product,Price,Quantity,OrderDate,PaymentStatus
+1,PORT HARCOURT,samsung phone,120000.0,1.0,2024-11-02,failed
+2,KADUNA,samsung phone,250.0,1.0,,pending
+3,ENUGU,hp laptop,35000.0,1.0,,paid
+4,LAGOS,hp laptop,250000.0,1.0,,pending
+5,ABUJA,hp laptop,250.0,3.0,,pending
+6,PORT HARCOURT,infinix phone,450.0,3.0,,paid
+7,KADUNA,hp laptop,120000.0,1.0,,paid
+8,PORT HARCOURT,iphone x,120000.0,3.0,,paid
+9,ABUJA,samsung phone,250.0,1.0,,failed
+10,JOS,samsung phone,150.0,1.0,2024-11-30,paid
+11,LAGOS,samsung phone,250.0,1.0,,pending
+12,KADUNA,samsung phone,120000.0,2.0,,paid
+13,JOS,samsung phone,150000.0,1.0,,paid
+14,JOS,hp laptop,250.0,1.0,,paid
+15,JOS,hp laptop,450000.0,1.0,2024-11-16,pending
+16,ENUGU,hp laptop,35000.0,2.0,,failed
+17,PORT HARCOURT,airpods,450000.0,1.0,,pending
+18,PORT HARCOURT,infinix phone,150.0,1.0,,paid
+19,ABUJA,airpods,450000.0,1.0,,paid
+20,KADUNA,airpods,250000.0,3.0,2024-10-07,paid
+21,LAGOS,samsung phone,250000.0,1.0,,pending
+22,LAGOS,airpods,150000.0,1.0,,pending
+23,PORT HARCOURT,airpods,150000.0,2.0,,paid
+24,LAGOS,iphone x,35000.0,1.0,,paid
+25,KADUNA,samsung phone,150000.0,3.0,,paid
+26,JOS,samsung phone,150000.0,1.0,,pending
+27,LAGOS,infinix phone,450000.0,1.0,2024-10-27,paid
+28,KADUNA,infinix phone,120000.0,2.0,2024-11-07,failed
+29,JOS,airpods,150.0,3.0,,pending
+30,LAGOS,airpods,250.0,1.0,,paid
+31,ENUGU,airpods,150000.0,3.0,,paid
+32,ENUGU,iphone x,250.0,3.0,,paid
+33,LAGOS,iphone x,250.0,3.0,,paid
+34,KADUNA,airpods,450.0,2.0,2024-10-20,paid
+35,LAGOS,airpods,450000.0,1.0,,pending
+36,PORT HARCOURT,iphone x,250000.0,3.0,,pending
+37,ABUJA,iphone x,250.0,1.0,,failed
+38,KADUNA,hp laptop,250000.0,2.0,,pending
+39,KADUNA,iphone x,450000.0,3.0,,paid
+40,PORT HARCOURT,infinix phone,120000.0,1.0,,failed
+41,LAGOS,infinix phone,450.0,3.0,2024-11-04,pending
+42,LAGOS,hp laptop,35.0,2.0,,failed
+43,ABUJA,hp laptop,35000.0,1.0,,pending
+44,ENUGU,samsung phone,450.0,2.0,2024-10-01,paid
+45,ENUGU,iphone x,450000.0,2.0,,paid
+46,JOS,airpods,250.0,2.0,,paid
+47,ABUJA,infinix phone,120000.0,1.0,,failed
+48,LAGOS,hp laptop,35.0,1.0,2024-11-03,pending
+49,PORT HARCOURT,iphone x,35000.0,1.0,,pending
+50,KADUNA,samsung phone,150000.0,1.0,2024-10-07,pending
+51,ENUGU,infinix phone,120.0,2.0,,failed
+52,ABUJA,airpods,450.0,3.0,,pending
+53,JOS,hp laptop,450000.0,2.0,,failed
+54,ENUGU,iphone x,120000.0,1.0,,failed
+55,KADUNA,infinix phone,150.0,3.0,2024-10-02,failed
+56,KADUNA,iphone x,250000.0,1.0,2024-11-09,pending
+57,LAGOS,hp laptop,250000.0,3.0,2024-10-16,failed
+58,PORT HARCOURT,iphone x,120.0,1.0,,pending
+59,ENUGU,hp laptop,120000.0,2.0,,pending
+60,LAGOS,samsung phone,450000.0,1.0,,pending
+61,JOS,iphone x,150.0,3.0,,pending
+62,ABUJA,iphone x,35.0,2.0,,failed
+63,KADUNA,airpods,450000.0,2.0,,pending
+64,ENUGU,hp laptop,35000.0,1.0,,pending
+65,KADUNA,airpods,250000.0,1.0,,paid
+66,ABUJA,samsung phone,120.0,1.0,,failed
+67,LAGOS,airpods,450000.0,1.0,,pending
+68,LAGOS,samsung phone,150000.0,1.0,,failed
+69,KADUNA,hp laptop,250000.0,1.0,,pending
+70,PORT HARCOURT,iphone x,150.0,3.0,2024-11-21,pending
+71,KADUNA,hp laptop,250000.0,3.0,,pending
+72,JOS,airpods,250.0,1.0,,paid
+73,ABUJA,samsung phone,35.0,1.0,,paid
+74,LAGOS,airpods,35.0,1.0,,pending
+75,JOS,infinix phone,35000.0,1.0,,failed
+76,KADUNA,iphone x,120.0,1.0,,pending
+77,PORT HARCOURT,samsung phone,450000.0,1.0,,failed
+78,KADUNA,iphone x,250000.0,3.0,2024-11-24,pending
+79,KADUNA,samsung phone,120.0,1.0,,paid
+80,PORT HARCOURT,airpods,450000.0,3.0,2024-10-20,pending
+81,LAGOS,airpods,120000.0,1.0,,paid
+82,LAGOS,iphone x,250000.0,2.0,,pending
+83,KADUNA,hp laptop,250000.0,1.0,,failed
+84,KADUNA,iphone x,120000.0,1.0,,pending
+85,ABUJA,iphone x,250.0,3.0,,failed
+86,LAGOS,iphone x,120.0,1.0,,failed
+87,LAGOS,hp laptop,120000.0,1.0,,pending
+88,ABUJA,airpods,250000.0,1.0,,pending
+89,PORT HARCOURT,airpods,250000.0,1.0,,paid
+90,KADUNA,infinix phone,450.0,1.0,,failed
+91,PORT HARCOURT,samsung phone,35000.0,1.0,,pending
+92,JOS,iphone x,35000.0,1.0,2024-11-29,paid
+93,LAGOS,samsung phone,250.0,1.0,,pending
+94,JOS,infinix phone,150.0,2.0,,pending
+95,ABUJA,hp laptop,35000.0,3.0,,pending
+96,KADUNA,airpods,120.0,3.0,2024-11-25,pending
+97,JOS,iphone x,250000.0,1.0,,failed
+98,ENUGU,infinix phone,250000.0,1.0,,failed
+99,LAGOS,airpods,250.0,2.0,,failed
+100,KADUNA,hp laptop,120000.0,3.0,,pending
+101,LAGOS,iphone x,150000.0,3.0,,paid
+102,ENUGU,iphone x,35.0,2.0,,failed
+103,KADUNA,airpods,120000.0,3.0,,failed
+104,PORT HARCOURT,iphone x,120000.0,3.0,,paid
+105,JOS,airpods,150.0,2.0,,failed
+106,JOS,samsung phone,150000.0,1.0,,pending
+107,LAGOS,samsung phone,35000.0,3.0,,pending
+108,ABUJA,hp laptop,150.0,1.0,,paid
+109,ABUJA,samsung phone,450000.0,1.0,,pending
+110,LAGOS,hp laptop,250.0,1.0,2024-11-22,paid
+111,JOS,airpods,35000.0,1.0,,pending
+112,PORT HARCOURT,infinix phone,450000.0,2.0,,paid
+113,LAGOS,samsung phone,450000.0,1.0,,paid
+114,PORT HARCOURT,iphone x,150000.0,1.0,,pending
+115,PORT HARCOURT,samsung phone,450000.0,2.0,,paid
+116,KADUNA,hp laptop,250000.0,1.0,,failed
+117,LAGOS,infinix phone,120.0,1.0,2024-10-10,paid
+118,PORT HARCOURT,iphone x,250000.0,3.0,2024-11-23,failed
+119,PORT HARCOURT,airpods,35.0,1.0,,paid
+120,LAGOS,airpods,250.0,2.0,2024-11-10,pending
+121,ABUJA,hp laptop,250000.0,3.0,,pending
+122,JOS,iphone x,250000.0,3.0,,pending
+123,PORT HARCOURT,hp laptop,35000.0,3.0,,paid
+124,ABUJA,iphone x,35000.0,2.0,,pending
+125,PORT HARCOURT,airpods,35000.0,2.0,,failed
+126,LAGOS,iphone x,150.0,2.0,2024-11-27,pending
+127,JOS,samsung phone,35000.0,1.0,,pending
+128,LAGOS,iphone x,35.0,2.0,,paid
+129,KADUNA,airpods,35.0,3.0,,pending
+130,LAGOS,samsung phone,150000.0,3.0,2024-10-18,failed
+131,JOS,samsung phone,35.0,2.0,,paid
+132,PORT HARCOURT,samsung phone,120.0,1.0,,pending
+133,ABUJA,iphone x,120.0,1.0,,paid
+134,PORT HARCOURT,hp laptop,35.0,1.0,2024-11-25,pending
+135,ABUJA,samsung phone,450000.0,1.0,2024-10-12,paid
+136,PORT HARCOURT,iphone x,35000.0,2.0,,paid
+137,ENUGU,iphone x,120000.0,2.0,,paid
+138,KADUNA,iphone x,250.0,1.0,,pending
+139,PORT HARCOURT,iphone x,450.0,1.0,2024-11-01,pending
+140,LAGOS,samsung phone,250000.0,3.0,,pending
+141,ABUJA,airpods,35000.0,1.0,,pending
+142,LAGOS,hp laptop,120000.0,3.0,,paid
+143,PORT HARCOURT,iphone x,150000.0,1.0,,paid
+144,PORT HARCOURT,airpods,120.0,1.0,,failed
+145,PORT HARCOURT,samsung phone,120000.0,1.0,,paid
+146,KADUNA,iphone x,120000.0,1.0,,paid
+147,JOS,hp laptop,250000.0,1.0,,paid
+148,LAGOS,airpods,150000.0,1.0,,paid
+149,KADUNA,airpods,250.0,1.0,,paid
+150,ENUGU,hp laptop,450000.0,1.0,,pending
+151,KADUNA,iphone x,150000.0,1.0,,paid
+152,ABUJA,airpods,35.0,1.0,2024-10-10,pending
+153,PORT HARCOURT,iphone x,35000.0,1.0,,failed
+154,ENUGU,iphone x,120000.0,1.0,,failed
+155,PORT HARCOURT,samsung phone,35000.0,2.0,,failed
+156,ABUJA,iphone x,120.0,1.0,,failed
+157,PORT HARCOURT,iphone x,250000.0,1.0,2024-10-21,pending
+158,ENUGU,airpods,120.0,2.0,,failed
+159,LAGOS,infinix phone,150000.0,1.0,,failed
+160,KADUNA,airpods,35.0,2.0,,paid
+161,ABUJA,hp laptop,120.0,1.0,,failed
+162,LAGOS,infinix phone,35.0,1.0,2024-10-23,paid
+163,LAGOS,airpods,150.0,2.0,,paid
+164,PORT HARCOURT,infinix phone,35000.0,1.0,,paid
+165,JOS,samsung phone,120000.0,1.0,2024-11-10,paid
+166,ENUGU,samsung phone,35.0,1.0,,pending
+167,PORT HARCOURT,airpods,250000.0,2.0,,pending
+168,LAGOS,samsung phone,35000.0,1.0,,failed
+169,ENUGU,iphone x,150000.0,1.0,2024-10-28,failed
+170,ENUGU,infinix phone,120000.0,1.0,2024-10-27,failed
+171,JOS,infinix phone,35000.0,3.0,,failed
+172,ABUJA,iphone x,250.0,1.0,,paid
+173,KADUNA,hp laptop,35000.0,2.0,,pending
+174,LAGOS,hp laptop,120.0,1.0,,paid
+175,LAGOS,infinix phone,120000.0,1.0,2024-10-07,paid
+176,PORT HARCOURT,iphone x,120000.0,1.0,,failed
+177,KADUNA,iphone x,250000.0,2.0,,paid
+178,ABUJA,iphone x,150000.0,3.0,,paid
+179,LAGOS,infinix phone,150000.0,1.0,,failed
+180,JOS,infinix phone,120.0,3.0,,pending
+181,ENUGU,airpods,250000.0,1.0,,failed
+182,ABUJA,infinix phone,150000.0,3.0,,pending
+183,JOS,hp laptop,120.0,2.0,,pending
+184,ABUJA,iphone x,120000.0,1.0,,pending
+185,LAGOS,iphone x,250000.0,1.0,,paid
+186,ENUGU,hp laptop,150000.0,1.0,,paid
+187,LAGOS,infinix phone,35000.0,1.0,,pending
+188,LAGOS,infinix phone,250000.0,1.0,,paid
+189,ENUGU,samsung phone,35000.0,1.0,,pending
+190,JOS,hp laptop,35000.0,2.0,,pending
+191,ABUJA,iphone x,150.0,1.0,,paid
+192,ABUJA,airpods,450000.0,1.0,,failed
+193,PORT HARCOURT,hp laptop,35.0,1.0,,pending
+194,LAGOS,samsung phone,150000.0,1.0,2024-11-28,pending
+195,LAGOS,samsung phone,120000.0,1.0,,failed
+196,LAGOS,hp laptop,120.0,1.0,,paid
+197,JOS,iphone x,250.0,3.0,,failed
+198,JOS,samsung phone,35000.0,1.0,,failed
+199,LAGOS,iphone x,250000.0,1.0,,failed
+200,ABUJA,samsung phone,450.0,1.0,,paid
+201,ABUJA,iphone x,35.0,1.0,,pending
+202,JOS,hp laptop,35.0,1.0,,failed
+203,ENUGU,iphone x,450.0,3.0,2024-11-27,paid
+204,JOS,iphone x,120000.0,2.0,,failed
+205,KADUNA,hp laptop,120.0,1.0,,paid
+206,KADUNA,iphone x,150000.0,1.0,,pending
+207,KADUNA,hp laptop,450.0,2.0,,paid
+208,ABUJA,samsung phone,250000.0,1.0,,paid
+209,PORT HARCOURT,samsung phone,450.0,1.0,,paid
+210,LAGOS,airpods,450000.0,1.0,2024-10-12,failed
+211,ENUGU,hp laptop,35000.0,1.0,2024-11-03,pending
+212,ABUJA,iphone x,120.0,1.0,,pending
+213,PORT HARCOURT,iphone x,450000.0,3.0,,paid
+214,ABUJA,airpods,250000.0,2.0,,paid
+215,ABUJA,iphone x,35.0,2.0,2024-10-05,failed
+216,JOS,iphone x,120000.0,2.0,2024-10-10,pending
+217,LAGOS,samsung phone,35.0,3.0,,pending
+218,LAGOS,samsung phone,250000.0,1.0,,paid
+219,PORT HARCOURT,infinix phone,35000.0,1.0,,pending
+220,ENUGU,airpods,450000.0,1.0,,paid
+221,ABUJA,iphone x,35000.0,1.0,,paid
+222,PORT HARCOURT,hp laptop,150000.0,1.0,,pending
+223,LAGOS,airpods,120.0,1.0,,paid
+224,JOS,hp laptop,35000.0,2.0,,paid
+225,JOS,samsung phone,450.0,1.0,,pending
+226,ABUJA,samsung phone,250000.0,1.0,,failed
+227,JOS,samsung phone,35.0,2.0,,paid
+228,LAGOS,infinix phone,35000.0,2.0,,paid
+229,LAGOS,iphone x,35000.0,1.0,,pending
+230,JOS,infinix phone,120000.0,3.0,,paid
+231,ABUJA,hp laptop,120000.0,1.0,,failed
+232,PORT HARCOURT,infinix phone,120000.0,1.0,2024-11-17,pending
+233,ABUJA,iphone x,35000.0,1.0,2024-10-31,failed
+234,LAGOS,iphone x,120.0,1.0,,paid
+235,ABUJA,hp laptop,120000.0,1.0,,failed
+236,ENUGU,hp laptop,35000.0,1.0,,pending
+237,LAGOS,hp laptop,150.0,3.0,,pending
+238,PORT HARCOURT,samsung phone,150000.0,1.0,,paid
+239,PORT HARCOURT,hp laptop,250000.0,2.0,,paid
+240,LAGOS,infinix phone,150000.0,1.0,,paid
+241,LAGOS,airpods,35000.0,1.0,2024-11-30,paid
+242,LAGOS,samsung phone,250.0,2.0,,failed
+243,ABUJA,iphone x,150000.0,3.0,,paid
+244,KADUNA,iphone x,120000.0,1.0,,pending
+245,LAGOS,iphone x,35.0,1.0,2024-10-10,failed
+246,JOS,infinix phone,120000.0,2.0,,pending
+247,JOS,hp laptop,450.0,3.0,,failed
+248,JOS,hp laptop,450.0,1.0,2024-10-11,paid
+249,JOS,samsung phone,35000.0,2.0,,paid
+250,ABUJA,hp laptop,250.0,1.0,,paid
+251,KADUNA,hp laptop,150000.0,2.0,,pending
+252,KADUNA,iphone x,35000.0,1.0,,paid
+253,LAGOS,iphone x,120.0,1.0,,paid
+254,ABUJA,airpods,450.0,1.0,,pending
+255,LAGOS,hp laptop,450000.0,1.0,,paid
+256,JOS,airpods,150000.0,3.0,2024-10-08,pending
+257,KADUNA,iphone x,250.0,1.0,,failed
+258,LAGOS,samsung phone,120000.0,2.0,,pending
+259,PORT HARCOURT,iphone x,35000.0,1.0,2024-10-25,pending
+260,ABUJA,iphone x,120000.0,1.0,,pending
+261,JOS,iphone x,250000.0,1.0,,failed
+262,JOS,infinix phone,35000.0,1.0,,pending
+263,ABUJA,infinix phone,150000.0,1.0,2024-11-24,failed
+264,JOS,infinix phone,250000.0,2.0,,paid
+265,ABUJA,samsung phone,250000.0,1.0,,paid
+266,JOS,iphone x,150000.0,1.0,2024-10-30,paid
+267,LAGOS,iphone x,120.0,3.0,,paid
+268,ENUGU,airpods,35.0,1.0,,paid
+269,LAGOS,samsung phone,120.0,1.0,,paid
+270,JOS,infinix phone,250.0,2.0,,paid
+271,ENUGU,iphone x,35000.0,2.0,,paid
+272,PORT HARCOURT,hp laptop,450000.0,1.0,,paid
+273,LAGOS,airpods,120000.0,3.0,2024-10-23,paid
+274,ENUGU,hp laptop,450000.0,1.0,,failed
+275,ABUJA,hp laptop,450.0,3.0,,pending
+276,LAGOS,hp laptop,120000.0,1.0,,paid
+277,ABUJA,hp laptop,150000.0,1.0,,pending
+278,PORT HARCOURT,iphone x,250000.0,2.0,2024-10-06,pending
+279,JOS,hp laptop,250000.0,1.0,2024-11-02,pending
+280,LAGOS,airpods,120000.0,1.0,,pending
+281,PORT HARCOURT,samsung phone,35000.0,1.0,,pending
+282,PORT HARCOURT,samsung phone,250000.0,1.0,2024-10-11,failed
+283,PORT HARCOURT,infinix phone,150.0,1.0,,pending
+284,PORT HARCOURT,hp laptop,250.0,1.0,,paid
+285,ENUGU,hp laptop,120000.0,2.0,2024-10-06,paid
+286,ENUGU,samsung phone,450000.0,1.0,,paid
+287,KADUNA,infinix phone,150.0,1.0,,pending
+288,ENUGU,airpods,250.0,2.0,,failed
+289,KADUNA,iphone x,35000.0,3.0,,paid
+290,KADUNA,hp laptop,120000.0,1.0,,paid
+291,PORT HARCOURT,airpods,35.0,1.0,,pending
+292,ABUJA,iphone x,120.0,1.0,,failed
+293,LAGOS,hp laptop,250000.0,1.0,2024-11-04,failed
+294,ENUGU,hp laptop,250000.0,1.0,,paid
+295,LAGOS,infinix phone,450.0,1.0,2024-10-01,paid
+296,LAGOS,samsung phone,150.0,1.0,,pending
+297,PORT HARCOURT,samsung phone,250000.0,1.0,,pending
+298,KADUNA,hp laptop,120000.0,2.0,,paid
+299,ABUJA,iphone x,120000.0,1.0,,failed
+300,LAGOS,samsung phone,35000.0,3.0,,paid
+301,JOS,iphone x,250000.0,1.0,,failed
+302,ENUGU,samsung phone,450000.0,1.0,,pending
+303,PORT HARCOURT,iphone x,35000.0,1.0,2024-10-07,paid
+304,ENUGU,airpods,250000.0,2.0,,failed
+305,KADUNA,hp laptop,250000.0,1.0,,paid
+306,LAGOS,airpods,450000.0,3.0,,paid
+307,JOS,iphone x,250.0,3.0,,paid
+308,KADUNA,airpods,120000.0,1.0,,failed
+309,ABUJA,hp laptop,120.0,3.0,,failed
+310,JOS,samsung phone,150.0,3.0,,paid
+311,ABUJA,infinix phone,450.0,2.0,,paid
+312,ABUJA,infinix phone,250.0,1.0,2024-11-19,paid
+313,LAGOS,airpods,450.0,1.0,,failed
+314,PORT HARCOURT,iphone x,450000.0,1.0,,failed
+315,ENUGU,hp laptop,35000.0,1.0,,paid
+316,KADUNA,samsung phone,35000.0,1.0,,paid
+317,ENUGU,infinix phone,120000.0,1.0,,failed
+318,ABUJA,samsung phone,120000.0,2.0,,pending
+319,ENUGU,infinix phone,35000.0,1.0,,paid
+320,KADUNA,hp laptop,35000.0,2.0,,failed
+321,KADUNA,samsung phone,150000.0,1.0,,paid
+322,ABUJA,hp laptop,150000.0,1.0,,pending
+323,LAGOS,hp laptop,35000.0,2.0,,pending
+324,LAGOS,iphone x,450000.0,1.0,,paid
+325,ENUGU,hp laptop,35000.0,1.0,,pending
+326,PORT HARCOURT,hp laptop,450000.0,3.0,2024-10-23,pending
+327,PORT HARCOURT,samsung phone,150000.0,1.0,2024-11-20,paid
+328,ABUJA,iphone x,35000.0,1.0,,pending
+329,JOS,samsung phone,450000.0,1.0,2024-11-14,failed
+330,PORT HARCOURT,airpods,250000.0,1.0,,pending
+331,KADUNA,iphone x,35.0,1.0,,paid
+332,LAGOS,airpods,150.0,1.0,,pending
+333,LAGOS,iphone x,450.0,1.0,,paid
+334,JOS,samsung phone,120000.0,1.0,,failed
+335,JOS,hp laptop,35.0,2.0,,paid
+336,LAGOS,infinix phone,150000.0,1.0,,paid
+337,JOS,samsung phone,450000.0,1.0,2024-10-20,paid
+338,PORT HARCOURT,hp laptop,35000.0,1.0,,paid
+339,KADUNA,iphone x,250000.0,1.0,,paid
+340,LAGOS,hp laptop,150000.0,1.0,,paid
+341,JOS,airpods,250000.0,1.0,2024-11-07,failed
+342,KADUNA,hp laptop,450000.0,1.0,,paid
+343,LAGOS,infinix phone,250.0,1.0,,failed
+344,KADUNA,iphone x,150000.0,1.0,2024-10-12,pending
+345,JOS,iphone x,35000.0,1.0,,pending
+346,ENUGU,iphone x,35.0,1.0,2024-11-24,paid
+347,JOS,infinix phone,450000.0,1.0,,pending
+348,ABUJA,samsung phone,450000.0,2.0,2024-10-23,pending
+349,LAGOS,iphone x,35000.0,2.0,,failed
+350,LAGOS,hp laptop,250.0,3.0,,paid
+351,KADUNA,infinix phone,250000.0,3.0,,paid
+352,JOS,samsung phone,120000.0,2.0,,paid
+353,JOS,infinix phone,450.0,1.0,2024-10-19,pending
+354,ABUJA,infinix phone,250.0,1.0,,paid
+355,LAGOS,iphone x,450000.0,1.0,,pending
+356,KADUNA,iphone x,250.0,1.0,,paid
+357,LAGOS,hp laptop,150000.0,1.0,,paid
+358,LAGOS,infinix phone,120.0,1.0,,pending
+359,LAGOS,hp laptop,450000.0,1.0,,pending
+360,JOS,hp laptop,250000.0,3.0,,pending
+361,KADUNA,samsung phone,120.0,1.0,,pending
+362,LAGOS,infinix phone,250000.0,1.0,,paid
+363,LAGOS,iphone x,250000.0,1.0,,failed
+364,ENUGU,samsung phone,450000.0,3.0,2024-10-03,paid
+365,PORT HARCOURT,samsung phone,150000.0,1.0,,failed
+366,LAGOS,samsung phone,250.0,1.0,,failed
+367,PORT HARCOURT,samsung phone,450.0,3.0,2024-11-15,pending
+368,PORT HARCOURT,iphone x,450000.0,1.0,,paid
+369,JOS,iphone x,150.0,1.0,,pending
+370,JOS,samsung phone,250000.0,1.0,,paid
+371,ENUGU,airpods,120000.0,2.0,2024-10-01,paid
+372,KADUNA,iphone x,150000.0,3.0,,pending
+373,PORT HARCOURT,infinix phone,450000.0,2.0,,paid
+374,PORT HARCOURT,hp laptop,250.0,2.0,,pending
+375,KADUNA,samsung phone,120000.0,1.0,,pending
+376,KADUNA,infinix phone,250000.0,1.0,,paid
+377,PORT HARCOURT,hp laptop,450.0,1.0,,pending
+378,ABUJA,hp laptop,150000.0,3.0,,pending
+379,LAGOS,airpods,150000.0,2.0,,failed
+380,ABUJA,hp laptop,35000.0,2.0,,pending
+381,KADUNA,samsung phone,120000.0,1.0,2024-10-10,paid
+382,LAGOS,samsung phone,250000.0,3.0,2024-11-07,paid
+383,JOS,iphone x,120000.0,3.0,,failed
+384,ABUJA,hp laptop,150000.0,3.0,,failed
+385,JOS,infinix phone,250.0,1.0,,failed
+386,ABUJA,hp laptop,150000.0,1.0,,paid
+387,LAGOS,hp laptop,450000.0,2.0,,paid
+388,ABUJA,airpods,450.0,3.0,,failed
+389,LAGOS,iphone x,150000.0,3.0,2024-10-03,paid
+390,LAGOS,samsung phone,250000.0,1.0,,failed
+391,KADUNA,airpods,35.0,1.0,,failed
+392,ENUGU,infinix phone,250000.0,3.0,,pending
+393,LAGOS,airpods,450000.0,2.0,,paid
+394,PORT HARCOURT,samsung phone,120.0,3.0,2024-11-18,paid
+395,ABUJA,infinix phone,120000.0,1.0,2024-10-29,failed
+396,KADUNA,iphone x,35000.0,3.0,2024-11-25,pending
+397,JOS,hp laptop,250000.0,1.0,,paid
+398,LAGOS,infinix phone,35.0,2.0,2024-10-24,paid
+399,ENUGU,iphone x,35000.0,1.0,,paid
+400,ENUGU,iphone x,250.0,1.0,,paid
+401,PORT HARCOURT,samsung phone,450000.0,2.0,,failed
+402,KADUNA,iphone x,120000.0,1.0,,failed
+403,JOS,samsung phone,120000.0,1.0,,paid
+404,ENUGU,hp laptop,120.0,1.0,2024-10-28,failed
+405,KADUNA,infinix phone,35000.0,1.0,,paid
+406,LAGOS,hp laptop,35000.0,3.0,2024-11-07,failed
+407,ABUJA,airpods,35000.0,1.0,,paid
+408,PORT HARCOURT,samsung phone,35000.0,3.0,,pending
+409,PORT HARCOURT,samsung phone,450000.0,1.0,,failed
+410,ENUGU,samsung phone,250000.0,1.0,2024-11-28,pending
+411,ENUGU,hp laptop,250000.0,1.0,,paid
+412,LAGOS,hp laptop,150000.0,2.0,,failed
+413,JOS,iphone x,450.0,1.0,,paid
+414,ENUGU,samsung phone,120.0,1.0,,pending
+415,PORT HARCOURT,hp laptop,150.0,2.0,2024-11-03,failed
+416,PORT HARCOURT,samsung phone,150.0,1.0,,failed
+417,ENUGU,samsung phone,250.0,3.0,,pending
+418,PORT HARCOURT,infinix phone,450.0,3.0,2024-11-11,pending
+419,KADUNA,airpods,250.0,1.0,,pending
+420,PORT HARCOURT,samsung phone,150000.0,3.0,2024-10-28,pending
+421,LAGOS,infinix phone,35000.0,3.0,,paid
+422,ABUJA,iphone x,150.0,2.0,,paid
+423,KADUNA,airpods,250.0,3.0,,failed
+424,KADUNA,infinix phone,450000.0,1.0,,paid
+425,ENUGU,iphone x,35000.0,2.0,,failed
+426,ABUJA,infinix phone,250000.0,1.0,,failed
+427,LAGOS,iphone x,150000.0,1.0,,pending
+428,KADUNA,hp laptop,450.0,3.0,,paid
+429,PORT HARCOURT,hp laptop,250000.0,1.0,,paid
+430,ENUGU,airpods,450.0,2.0,,paid
+431,KADUNA,samsung phone,250.0,1.0,,paid
+432,KADUNA,airpods,150.0,2.0,,failed
+433,ENUGU,iphone x,150.0,1.0,,paid
+434,ENUGU,iphone x,450.0,1.0,,pending
+435,LAGOS,samsung phone,250.0,1.0,,failed
+436,KADUNA,hp laptop,250000.0,1.0,,paid
+437,ABUJA,hp laptop,150000.0,3.0,2024-11-15,paid
+438,ENUGU,airpods,35.0,2.0,,pending
+439,ENUGU,infinix phone,150000.0,1.0,,paid
+440,JOS,iphone x,250.0,1.0,,pending
+441,LAGOS,iphone x,450000.0,1.0,2024-10-20,pending
+442,PORT HARCOURT,samsung phone,250.0,1.0,,failed
+443,LAGOS,airpods,150000.0,1.0,,paid
+444,LAGOS,samsung phone,250000.0,3.0,,paid
+445,PORT HARCOURT,airpods,35000.0,3.0,2024-10-02,pending
+446,ENUGU,samsung phone,35.0,1.0,,pending
+447,PORT HARCOURT,hp laptop,150000.0,2.0,,pending
+448,KADUNA,hp laptop,450000.0,2.0,,pending
+449,ENUGU,iphone x,450.0,1.0,,pending
+450,ABUJA,hp laptop,120000.0,1.0,2024-11-16,pending
+451,LAGOS,infinix phone,150000.0,1.0,,pending
+452,PORT HARCOURT,hp laptop,150000.0,3.0,2024-10-16,failed
+453,ABUJA,iphone x,120000.0,1.0,,pending
+454,PORT HARCOURT,samsung phone,120000.0,1.0,,paid
+455,KADUNA,hp laptop,250000.0,1.0,,paid
+456,LAGOS,airpods,250000.0,1.0,,paid
+457,KADUNA,airpods,150.0,1.0,,failed
+458,ABUJA,hp laptop,150.0,2.0,,paid
+459,ENUGU,hp laptop,35000.0,1.0,,paid
+460,JOS,hp laptop,120000.0,1.0,,pending
+461,ABUJA,samsung phone,120000.0,1.0,,pending
+462,KADUNA,hp laptop,250.0,1.0,,paid
+463,KADUNA,samsung phone,150.0,1.0,,paid
+464,PORT HARCOURT,infinix phone,120.0,1.0,2024-11-24,paid
+465,ABUJA,hp laptop,35000.0,2.0,,paid
+466,JOS,hp laptop,150.0,1.0,,failed
+467,KADUNA,infinix phone,150.0,1.0,,pending
+468,ABUJA,iphone x,150000.0,1.0,,failed
+469,PORT HARCOURT,infinix phone,35.0,2.0,2024-11-29,failed
+470,ABUJA,hp laptop,120000.0,3.0,,paid
+471,ENUGU,hp laptop,150000.0,1.0,,failed
+472,KADUNA,infinix phone,120.0,3.0,,paid
+473,ENUGU,hp laptop,150000.0,2.0,,paid
+474,ENUGU,airpods,150000.0,2.0,,pending
+475,LAGOS,iphone x,120000.0,3.0,,pending
+476,ABUJA,airpods,450000.0,1.0,,paid
+477,KADUNA,iphone x,250000.0,1.0,,pending
+478,ABUJA,iphone x,120.0,2.0,,pending
+479,LAGOS,infinix phone,35000.0,2.0,,failed
+480,LAGOS,samsung phone,150000.0,2.0,2024-11-12,pending
+481,JOS,iphone x,450000.0,1.0,,paid
+482,KADUNA,airpods,150000.0,1.0,,paid
+483,PORT HARCOURT,samsung phone,250.0,1.0,,pending
+484,KADUNA,hp laptop,35000.0,1.0,,paid
+485,LAGOS,infinix phone,35000.0,2.0,,failed
+486,LAGOS,infinix phone,35.0,1.0,2024-10-13,pending
+487,JOS,infinix phone,450.0,2.0,,pending
+488,PORT HARCOURT,hp laptop,250000.0,2.0,,failed
+489,PORT HARCOURT,infinix phone,150000.0,2.0,,paid
+490,JOS,samsung phone,150000.0,1.0,,failed
+491,ENUGU,airpods,120.0,2.0,,failed
+492,ABUJA,samsung phone,150.0,2.0,,pending
+493,ABUJA,samsung phone,120000.0,3.0,,paid
+494,KADUNA,hp laptop,120.0,2.0,,failed
+495,KADUNA,hp laptop,150.0,1.0,2024-10-14,paid
+496,JOS,iphone x,120000.0,2.0,,pending
+497,ABUJA,infinix phone,250000.0,2.0,,failed
+498,PORT HARCOURT,iphone x,250.0,3.0,,pending
+499,LAGOS,hp laptop,120000.0,1.0,,paid
+500,KADUNA,airpods,120.0,1.0,,paid
+501,ABUJA,airpods,120.0,1.0,2024-10-14,paid
+502,LAGOS,hp laptop,35000.0,3.0,,pending
+503,LAGOS,hp laptop,450000.0,2.0,,paid
+504,KADUNA,infinix phone,250.0,1.0,2024-10-25,pending
+505,JOS,iphone x,120000.0,3.0,,paid
+506,KADUNA,airpods,35000.0,1.0,2024-10-16,failed
+507,PORT HARCOURT,samsung phone,120000.0,1.0,,paid
+508,ABUJA,hp laptop,450.0,1.0,2024-11-26,failed
+509,ABUJA,samsung phone,250000.0,1.0,,paid
+510,JOS,iphone x,150000.0,2.0,,pending
+511,ABUJA,infinix phone,250000.0,1.0,,paid
+512,LAGOS,airpods,120.0,2.0,,pending
+513,ENUGU,iphone x,450000.0,1.0,,pending
+514,ABUJA,hp laptop,120000.0,1.0,,pending
+515,ABUJA,hp laptop,35000.0,1.0,,paid
+516,KADUNA,airpods,450000.0,1.0,,pending
+517,PORT HARCOURT,infinix phone,250.0,3.0,,failed
+518,JOS,infinix phone,35.0,3.0,,paid
+519,PORT HARCOURT,iphone x,250000.0,3.0,,failed
+520,JOS,samsung phone,150000.0,1.0,,pending
+521,JOS,hp laptop,150.0,1.0,,pending
+522,LAGOS,hp laptop,250.0,1.0,,pending
+523,ENUGU,samsung phone,120.0,1.0,,paid
+524,JOS,hp laptop,450000.0,1.0,2024-10-22,paid
+525,JOS,iphone x,150.0,2.0,2024-10-05,pending
+526,ABUJA,airpods,120000.0,1.0,,pending
+527,LAGOS,infinix phone,120.0,2.0,,pending
+528,KADUNA,airpods,120000.0,3.0,,pending
+529,ABUJA,iphone x,150000.0,3.0,,pending
+530,PORT HARCOURT,iphone x,35000.0,1.0,2024-11-03,paid
+531,ENUGU,samsung phone,120000.0,1.0,2024-10-03,failed
+532,JOS,infinix phone,150000.0,1.0,,paid
+533,LAGOS,iphone x,35.0,2.0,,failed
+534,PORT HARCOURT,hp laptop,450.0,1.0,,paid
+535,ABUJA,samsung phone,150000.0,1.0,2024-11-19,failed
+536,JOS,iphone x,250.0,3.0,2024-11-16,pending
+537,KADUNA,hp laptop,150000.0,1.0,,pending
+538,LAGOS,airpods,35.0,1.0,,pending
+539,LAGOS,hp laptop,35000.0,2.0,,paid
+540,ENUGU,hp laptop,150.0,1.0,,failed
+541,ENUGU,hp laptop,150.0,1.0,,pending
+542,JOS,iphone x,450000.0,3.0,,failed
+543,KADUNA,infinix phone,120000.0,1.0,,paid
+544,ENUGU,hp laptop,150000.0,3.0,2024-10-31,pending
+545,PORT HARCOURT,infinix phone,450.0,3.0,,paid
+546,ENUGU,hp laptop,35000.0,1.0,2024-11-30,paid
+547,PORT HARCOURT,samsung phone,35000.0,1.0,,paid
+548,JOS,airpods,35000.0,2.0,2024-11-30,pending
+549,PORT HARCOURT,iphone x,35000.0,1.0,,failed
+550,KADUNA,infinix phone,150.0,1.0,,pending
+551,JOS,iphone x,35000.0,1.0,,failed
+552,PORT HARCOURT,samsung phone,250.0,1.0,,paid
+553,ENUGU,infinix phone,120000.0,1.0,,paid
+554,ABUJA,airpods,120000.0,1.0,,pending
+555,JOS,infinix phone,450000.0,3.0,,pending
+556,LAGOS,airpods,35000.0,1.0,,pending
+557,KADUNA,iphone x,450000.0,3.0,,paid
+558,ABUJA,hp laptop,120000.0,1.0,2024-10-31,pending
+559,JOS,samsung phone,250000.0,1.0,,failed
+560,ENUGU,hp laptop,35.0,1.0,,pending
+561,ENUGU,hp laptop,120.0,3.0,2024-10-09,failed
+562,ABUJA,iphone x,120.0,2.0,,pending
+563,JOS,airpods,120.0,1.0,,paid
+564,KADUNA,iphone x,120.0,1.0,2024-11-11,pending
+565,JOS,samsung phone,35000.0,2.0,,pending
+566,JOS,iphone x,450.0,3.0,2024-10-28,failed
+567,JOS,airpods,250.0,1.0,2024-11-12,paid
+568,LAGOS,iphone x,450.0,2.0,,pending
+569,ABUJA,hp laptop,250.0,1.0,,pending
+570,PORT HARCOURT,airpods,450.0,1.0,,pending
+571,ABUJA,hp laptop,150.0,3.0,,paid
+572,KADUNA,iphone x,450.0,1.0,,failed
+573,PORT HARCOURT,samsung phone,120000.0,2.0,2024-10-21,failed
+574,KADUNA,samsung phone,35000.0,1.0,,failed
+575,ENUGU,infinix phone,250000.0,2.0,,failed
+576,PORT HARCOURT,iphone x,250000.0,1.0,,paid
+577,KADUNA,airpods,250000.0,1.0,,pending
+578,KADUNA,hp laptop,450.0,2.0,,failed
+579,ABUJA,samsung phone,150000.0,1.0,,failed
+580,LAGOS,infinix phone,120.0,3.0,,failed
+581,ENUGU,iphone x,120000.0,2.0,,failed
+582,KADUNA,hp laptop,250000.0,1.0,,paid
+583,KADUNA,iphone x,250000.0,1.0,,failed
+584,PORT HARCOURT,airpods,35000.0,1.0,,failed
+585,KADUNA,hp laptop,250000.0,1.0,,failed
+586,LAGOS,hp laptop,150000.0,3.0,2024-10-19,failed
+587,PORT HARCOURT,iphone x,150.0,1.0,,paid
+588,ABUJA,hp laptop,150.0,1.0,,pending
+589,JOS,iphone x,150000.0,3.0,,failed
+590,JOS,samsung phone,250000.0,1.0,,paid
+591,ABUJA,samsung phone,120.0,1.0,2024-10-07,failed
+592,ABUJA,iphone x,150000.0,1.0,,paid
+593,JOS,samsung phone,250000.0,3.0,,pending
+594,JOS,airpods,250000.0,3.0,,paid
+595,JOS,airpods,450000.0,3.0,,paid
+596,ABUJA,airpods,450000.0,2.0,,pending
+597,JOS,infinix phone,450000.0,2.0,,pending
+598,ENUGU,airpods,150000.0,1.0,2024-11-01,failed
+599,ABUJA,airpods,250000.0,2.0,,paid
+600,KADUNA,hp laptop,35000.0,1.0,,failed
+601,KADUNA,samsung phone,150000.0,1.0,,pending
+602,JOS,iphone x,150000.0,1.0,,paid
+603,ENUGU,hp laptop,150000.0,2.0,,pending
+604,ENUGU,airpods,150000.0,1.0,,pending
+605,KADUNA,airpods,120000.0,1.0,,failed
+606,KADUNA,hp laptop,120.0,1.0,,failed
+607,JOS,hp laptop,120000.0,1.0,,paid
+608,ABUJA,infinix phone,120.0,2.0,,pending
+609,ENUGU,iphone x,450.0,1.0,,failed
+610,ENUGU,samsung phone,250000.0,2.0,,pending
+611,LAGOS,hp laptop,450000.0,3.0,2024-11-16,failed
+612,ABUJA,hp laptop,450000.0,2.0,,failed
+613,ENUGU,hp laptop,250000.0,3.0,,failed
+614,ENUGU,iphone x,150.0,1.0,,paid
+615,KADUNA,infinix phone,450.0,2.0,2024-10-21,pending
+616,ABUJA,samsung phone,120000.0,1.0,,pending
+617,ENUGU,iphone x,120000.0,3.0,,pending
+618,PORT HARCOURT,samsung phone,150000.0,2.0,,pending
+619,ABUJA,iphone x,35.0,2.0,,pending
+620,PORT HARCOURT,hp laptop,250000.0,1.0,,failed
+621,KADUNA,hp laptop,120000.0,1.0,,pending
+622,KADUNA,samsung phone,150000.0,3.0,2024-11-21,paid
+623,JOS,iphone x,150000.0,2.0,2024-11-19,paid
+624,ABUJA,iphone x,150000.0,1.0,,paid
+625,KADUNA,airpods,250000.0,1.0,,paid
+626,LAGOS,infinix phone,450000.0,1.0,2024-10-15,paid
+627,PORT HARCOURT,infinix phone,150000.0,1.0,,pending
+628,ENUGU,hp laptop,35000.0,1.0,,pending
+629,ABUJA,samsung phone,250000.0,1.0,,paid
+630,ENUGU,samsung phone,150.0,1.0,,paid
+631,KADUNA,samsung phone,450000.0,1.0,,failed
+632,ABUJA,airpods,35000.0,1.0,,paid
+633,LAGOS,iphone x,35000.0,1.0,,pending
+634,LAGOS,hp laptop,35000.0,1.0,,failed
+635,ABUJA,samsung phone,120000.0,1.0,2024-11-16,failed
+636,ENUGU,hp laptop,150.0,3.0,,paid
+637,JOS,samsung phone,35.0,1.0,,failed
+638,LAGOS,infinix phone,120000.0,1.0,,failed
+639,JOS,hp laptop,120000.0,2.0,,paid
+640,PORT HARCOURT,samsung phone,450000.0,1.0,,paid
+641,JOS,samsung phone,120.0,1.0,,failed
+642,JOS,iphone x,120000.0,1.0,,pending
+643,JOS,hp laptop,450000.0,1.0,,pending
+644,JOS,iphone x,35000.0,3.0,,paid
+645,ENUGU,infinix phone,120000.0,1.0,,pending
+646,LAGOS,airpods,250.0,3.0,,pending
+647,ABUJA,hp laptop,450000.0,1.0,,pending
+648,KADUNA,airpods,150.0,1.0,,pending
+649,ABUJA,hp laptop,35.0,1.0,,paid
+650,PORT HARCOURT,iphone x,250.0,1.0,,pending
+651,ENUGU,samsung phone,120000.0,2.0,2024-11-14,paid
+652,ENUGU,infinix phone,450.0,1.0,,paid
+653,PORT HARCOURT,infinix phone,120000.0,1.0,,pending
+654,ENUGU,hp laptop,450000.0,3.0,,paid
+655,PORT HARCOURT,hp laptop,35.0,1.0,2024-10-29,pending
+656,PORT HARCOURT,samsung phone,35000.0,1.0,,paid
+657,KADUNA,iphone x,120.0,3.0,,failed
+658,JOS,infinix phone,250.0,3.0,,paid
+659,LAGOS,samsung phone,150.0,1.0,,pending
+660,ABUJA,samsung phone,35.0,1.0,,failed
+661,ABUJA,airpods,250000.0,3.0,,pending
+662,JOS,hp laptop,250000.0,1.0,,failed
+663,JOS,iphone x,120.0,3.0,,pending
+664,ABUJA,hp laptop,250.0,1.0,,paid
+665,PORT HARCOURT,iphone x,35000.0,1.0,2024-10-05,failed
+666,JOS,hp laptop,150000.0,1.0,,pending
+667,PORT HARCOURT,samsung phone,120.0,1.0,,paid
+668,LAGOS,airpods,250000.0,1.0,,pending
+669,ENUGU,samsung phone,120000.0,2.0,,pending
+670,JOS,iphone x,250000.0,1.0,,paid
+671,KADUNA,samsung phone,120000.0,1.0,,paid
+672,KADUNA,samsung phone,150.0,1.0,,paid
+673,KADUNA,infinix phone,120000.0,1.0,,paid
+674,ABUJA,samsung phone,250000.0,1.0,2024-11-13,failed
+675,PORT HARCOURT,infinix phone,250000.0,1.0,,paid
+676,LAGOS,iphone x,35000.0,3.0,,paid
+677,ABUJA,hp laptop,250.0,1.0,,paid
+678,LAGOS,iphone x,450000.0,1.0,,paid
+679,LAGOS,hp laptop,450000.0,1.0,,pending
+680,LAGOS,infinix phone,120.0,1.0,,failed
+681,PORT HARCOURT,infinix phone,250.0,1.0,,failed
+682,LAGOS,samsung phone,450.0,1.0,,paid
+683,ENUGU,hp laptop,450.0,2.0,2024-10-05,paid
+684,PORT HARCOURT,infinix phone,150000.0,3.0,,failed
+685,PORT HARCOURT,infinix phone,150000.0,1.0,,pending
+686,LAGOS,iphone x,35000.0,1.0,,pending
+687,LAGOS,iphone x,150.0,3.0,,failed
+688,ENUGU,iphone x,120000.0,1.0,,failed
+689,KADUNA,iphone x,120000.0,2.0,,failed
+690,ABUJA,hp laptop,150000.0,1.0,,pending
+691,JOS,hp laptop,150000.0,2.0,,failed
+692,ABUJA,hp laptop,35000.0,1.0,2024-10-17,pending
+693,PORT HARCOURT,hp laptop,150000.0,2.0,,failed
+694,LAGOS,infinix phone,150.0,2.0,,pending
+695,ABUJA,iphone x,450000.0,3.0,,pending
+696,LAGOS,airpods,250.0,3.0,,pending
+697,JOS,iphone x,150000.0,3.0,2024-10-08,pending
+698,PORT HARCOURT,samsung phone,120.0,1.0,,pending
+699,PORT HARCOURT,samsung phone,150.0,1.0,,paid
+700,PORT HARCOURT,samsung phone,120.0,2.0,,failed
+701,LAGOS,iphone x,35000.0,1.0,,pending
+702,PORT HARCOURT,airpods,450000.0,1.0,,pending
+703,PORT HARCOURT,iphone x,150000.0,2.0,2024-11-12,paid
+704,JOS,iphone x,120000.0,1.0,,pending
+705,KADUNA,infinix phone,120000.0,2.0,,pending
+706,ABUJA,iphone x,35000.0,1.0,,paid
+707,ABUJA,infinix phone,450000.0,1.0,,pending
+708,PORT HARCOURT,iphone x,450000.0,1.0,,paid
+709,KADUNA,samsung phone,250.0,2.0,2024-10-25,paid
+710,PORT HARCOURT,samsung phone,250.0,3.0,2024-11-29,pending
+711,LAGOS,airpods,150.0,2.0,,paid
+712,ENUGU,samsung phone,150000.0,1.0,,failed
+713,LAGOS,infinix phone,150000.0,1.0,,paid
+714,PORT HARCOURT,iphone x,250.0,2.0,2024-10-01,paid
+715,ENUGU,samsung phone,35.0,3.0,,pending
+716,ABUJA,hp laptop,120000.0,1.0,,paid
+717,LAGOS,samsung phone,450.0,1.0,,paid
+718,JOS,samsung phone,120.0,2.0,,paid
+719,ABUJA,iphone x,250000.0,1.0,2024-11-25,pending
+720,JOS,infinix phone,250000.0,3.0,,pending
+721,KADUNA,samsung phone,450000.0,2.0,2024-10-20,paid
+722,ENUGU,iphone x,450.0,3.0,,failed
+723,KADUNA,samsung phone,150000.0,3.0,,paid
+724,KADUNA,airpods,450000.0,1.0,2024-11-19,paid
+725,PORT HARCOURT,hp laptop,450000.0,2.0,,pending
+726,ENUGU,samsung phone,250000.0,3.0,,pending
+727,LAGOS,iphone x,150000.0,1.0,,paid
+728,LAGOS,iphone x,450000.0,1.0,,pending
+729,ABUJA,samsung phone,120000.0,1.0,,pending
+730,ABUJA,hp laptop,250.0,3.0,,paid
+731,JOS,airpods,120000.0,1.0,2024-10-04,pending
+732,LAGOS,hp laptop,35000.0,1.0,,paid
+733,PORT HARCOURT,infinix phone,450000.0,1.0,,pending
+734,LAGOS,airpods,250.0,3.0,,pending
+735,ABUJA,airpods,150000.0,2.0,2024-10-25,paid
+736,PORT HARCOURT,samsung phone,250.0,1.0,2024-10-08,failed
+737,KADUNA,airpods,35.0,1.0,,paid
+738,LAGOS,hp laptop,35.0,2.0,,paid
+739,LAGOS,airpods,35000.0,2.0,,pending
+740,LAGOS,samsung phone,35000.0,1.0,,paid
+741,PORT HARCOURT,hp laptop,35000.0,1.0,,paid
+742,LAGOS,infinix phone,450000.0,1.0,,pending
+743,KADUNA,hp laptop,250000.0,1.0,,paid
+744,KADUNA,iphone x,250000.0,3.0,,paid
+745,JOS,airpods,35.0,3.0,2024-10-16,pending
+746,ENUGU,iphone x,150.0,1.0,,pending
+747,ENUGU,samsung phone,250000.0,1.0,,pending
+748,ENUGU,airpods,35000.0,1.0,,pending
+749,ENUGU,hp laptop,450000.0,1.0,,paid
+750,KADUNA,infinix phone,150000.0,3.0,,failed
+751,ENUGU,samsung phone,250000.0,1.0,,paid
+752,ABUJA,iphone x,120000.0,2.0,,paid
+753,ENUGU,hp laptop,250.0,1.0,2024-11-01,pending
+754,PORT HARCOURT,samsung phone,35000.0,1.0,,pending
+755,LAGOS,samsung phone,250.0,2.0,,failed
+756,ENUGU,infinix phone,120000.0,2.0,2024-10-21,failed
+757,JOS,samsung phone,150000.0,1.0,,pending
+758,ABUJA,samsung phone,120000.0,3.0,,pending
+759,KADUNA,samsung phone,120000.0,1.0,,paid
+760,JOS,infinix phone,35000.0,1.0,2024-11-02,paid
+761,KADUNA,airpods,450000.0,1.0,,pending
+762,KADUNA,airpods,120000.0,3.0,,pending
+763,JOS,samsung phone,450000.0,1.0,,pending
+764,JOS,samsung phone,150000.0,1.0,,paid
+765,ENUGU,iphone x,120000.0,2.0,,pending
+766,PORT HARCOURT,samsung phone,150000.0,3.0,,pending
+767,PORT HARCOURT,hp laptop,35.0,3.0,2024-11-22,failed
+768,ABUJA,samsung phone,250000.0,1.0,,pending
+769,ABUJA,airpods,250000.0,2.0,,paid
+770,ABUJA,hp laptop,120000.0,1.0,,pending
+771,JOS,samsung phone,120.0,3.0,2024-10-13,pending
+772,LAGOS,samsung phone,450.0,3.0,,pending
+773,ENUGU,hp laptop,35000.0,1.0,,paid
+774,JOS,hp laptop,35.0,2.0,,paid
+775,LAGOS,infinix phone,150000.0,1.0,2024-11-20,pending
+776,PORT HARCOURT,hp laptop,250000.0,3.0,,pending
+777,KADUNA,iphone x,150.0,3.0,2024-11-08,failed
+778,PORT HARCOURT,samsung phone,150000.0,3.0,2024-11-22,failed
+779,ABUJA,hp laptop,120.0,1.0,,pending
+780,ENUGU,airpods,35000.0,1.0,2024-10-14,pending
+781,ENUGU,airpods,35.0,1.0,,paid
+782,ENUGU,airpods,120.0,1.0,,pending
+783,LAGOS,iphone x,35.0,1.0,,pending
+784,JOS,samsung phone,450000.0,1.0,,pending
+785,ENUGU,infinix phone,35000.0,1.0,,pending
+786,KADUNA,samsung phone,35000.0,2.0,2024-11-28,pending
+787,JOS,hp laptop,35000.0,3.0,,pending
+788,LAGOS,iphone x,35000.0,2.0,,paid
+789,KADUNA,hp laptop,35.0,1.0,,failed
+790,PORT HARCOURT,hp laptop,150000.0,1.0,2024-11-08,paid
+791,ENUGU,hp laptop,450.0,1.0,,paid
+792,KADUNA,hp laptop,120.0,3.0,,paid
+793,PORT HARCOURT,iphone x,35.0,3.0,,pending
+794,KADUNA,airpods,250.0,2.0,,failed
+795,LAGOS,airpods,120.0,1.0,,paid
+796,PORT HARCOURT,iphone x,250000.0,3.0,,pending
+797,LAGOS,samsung phone,450.0,2.0,2024-11-30,pending
+798,LAGOS,iphone x,120.0,2.0,,pending
+799,ENUGU,hp laptop,35.0,1.0,2024-11-20,paid
+800,PORT HARCOURT,airpods,120.0,1.0,,pending
+801,ENUGU,iphone x,250000.0,3.0,,pending
+802,KADUNA,iphone x,120000.0,3.0,,pending
+803,ENUGU,samsung phone,450000.0,1.0,,pending
+804,ENUGU,samsung phone,250.0,1.0,,pending
+805,KADUNA,airpods,120.0,2.0,,pending
+806,LAGOS,iphone x,450.0,1.0,2024-11-27,pending
+807,PORT HARCOURT,iphone x,150000.0,3.0,,pending
+808,ABUJA,airpods,250000.0,3.0,2024-11-08,pending
+809,LAGOS,hp laptop,150.0,2.0,,failed
+810,PORT HARCOURT,airpods,35000.0,1.0,,paid
+811,JOS,infinix phone,120000.0,1.0,,paid
+812,ABUJA,hp laptop,120000.0,1.0,2024-11-28,failed
+813,ABUJA,airpods,35.0,1.0,,paid
+814,JOS,infinix phone,250000.0,2.0,,failed
+815,JOS,infinix phone,450000.0,1.0,2024-10-28,pending
+816,ABUJA,samsung phone,450000.0,1.0,2024-10-30,pending
+817,LAGOS,hp laptop,150.0,1.0,,paid
+818,ABUJA,airpods,450000.0,1.0,2024-10-10,pending
+819,JOS,hp laptop,35000.0,1.0,,failed
+820,PORT HARCOURT,infinix phone,150000.0,3.0,2024-10-01,failed
+821,PORT HARCOURT,airpods,35000.0,3.0,2024-10-26,failed
+822,KADUNA,iphone x,120000.0,1.0,,failed
+823,LAGOS,iphone x,120000.0,1.0,,paid
+824,KADUNA,airpods,120000.0,2.0,2024-11-23,paid
+825,LAGOS,iphone x,150000.0,2.0,,paid
+826,KADUNA,iphone x,150000.0,1.0,,paid
+827,KADUNA,hp laptop,450.0,1.0,,paid
+828,ENUGU,iphone x,150.0,3.0,,paid
+829,KADUNA,airpods,35.0,1.0,,failed
+830,KADUNA,samsung phone,120.0,3.0,,failed
+831,KADUNA,iphone x,250000.0,1.0,,pending
+832,JOS,infinix phone,150.0,1.0,,pending
+833,JOS,infinix phone,250000.0,3.0,,pending
+834,KADUNA,infinix phone,150000.0,3.0,,paid
+835,ABUJA,hp laptop,120000.0,1.0,2024-11-12,paid
+836,JOS,samsung phone,150.0,1.0,,pending
+837,LAGOS,samsung phone,120000.0,1.0,2024-11-05,paid
+838,KADUNA,iphone x,450000.0,3.0,,pending
+839,JOS,iphone x,120000.0,1.0,,paid
+840,ENUGU,iphone x,35000.0,1.0,,pending
+841,LAGOS,infinix phone,150000.0,3.0,2024-10-31,paid
+842,ENUGU,airpods,250000.0,3.0,,pending
+843,KADUNA,samsung phone,150000.0,1.0,,pending
+844,ENUGU,hp laptop,450000.0,1.0,,pending
+845,PORT HARCOURT,infinix phone,35.0,1.0,,failed
+846,LAGOS,hp laptop,150000.0,2.0,,pending
+847,PORT HARCOURT,samsung phone,35000.0,2.0,,pending
+848,ENUGU,samsung phone,250.0,1.0,,paid
+849,PORT HARCOURT,samsung phone,35000.0,2.0,,failed
+850,ENUGU,hp laptop,250000.0,2.0,,pending
+851,JOS,iphone x,250.0,1.0,,paid
+852,KADUNA,airpods,250000.0,1.0,2024-11-18,pending
+853,LAGOS,samsung phone,120000.0,2.0,,paid
+854,LAGOS,iphone x,35000.0,2.0,,failed
+855,ENUGU,samsung phone,450.0,2.0,,paid
+856,JOS,airpods,150000.0,1.0,,paid
+857,JOS,iphone x,35000.0,1.0,2024-11-04,failed
+858,LAGOS,hp laptop,450.0,1.0,2024-11-13,pending
+859,KADUNA,hp laptop,150000.0,2.0,,pending
+860,ENUGU,iphone x,250000.0,1.0,,paid
+861,LAGOS,hp laptop,250000.0,2.0,2024-10-18,failed
+862,KADUNA,iphone x,450.0,2.0,,failed
+863,LAGOS,airpods,150000.0,1.0,2024-10-11,failed
+864,LAGOS,infinix phone,120000.0,1.0,,paid
+865,LAGOS,airpods,150000.0,1.0,,failed
+866,KADUNA,airpods,250000.0,1.0,2024-11-24,paid
+867,KADUNA,airpods,120000.0,2.0,,paid
+868,JOS,hp laptop,35000.0,1.0,,pending
+869,KADUNA,airpods,450000.0,1.0,,failed
+870,ENUGU,samsung phone,120.0,1.0,2024-11-19,paid
+871,ABUJA,iphone x,250.0,1.0,,paid
+872,LAGOS,hp laptop,150.0,2.0,,pending
+873,LAGOS,iphone x,35.0,1.0,,pending
+874,KADUNA,infinix phone,150000.0,2.0,,paid
+875,ENUGU,iphone x,450000.0,1.0,,pending
+876,ABUJA,hp laptop,120000.0,1.0,,paid
+877,KADUNA,infinix phone,150000.0,1.0,,failed
+878,LAGOS,hp laptop,250000.0,1.0,,failed
+879,ABUJA,hp laptop,250000.0,1.0,,paid
+880,ABUJA,samsung phone,35000.0,1.0,,paid
+881,KADUNA,iphone x,120000.0,1.0,,paid
+882,ABUJA,samsung phone,450000.0,1.0,,failed
+883,KADUNA,iphone x,150000.0,1.0,,failed
+884,KADUNA,hp laptop,450.0,1.0,,failed
+885,ABUJA,iphone x,120.0,3.0,,failed
+886,ABUJA,samsung phone,450000.0,1.0,,failed
+887,ABUJA,airpods,120000.0,1.0,,paid
+888,KADUNA,samsung phone,450000.0,1.0,,paid
+889,KADUNA,hp laptop,120000.0,1.0,,paid
+890,KADUNA,iphone x,150000.0,1.0,,pending
+891,ENUGU,iphone x,450000.0,3.0,,failed
+892,PORT HARCOURT,iphone x,250000.0,1.0,2024-11-04,pending
+893,ABUJA,infinix phone,450000.0,3.0,2024-11-01,failed
+894,JOS,samsung phone,35000.0,1.0,,paid
+895,PORT HARCOURT,infinix phone,120000.0,1.0,,failed
+896,ABUJA,samsung phone,35000.0,2.0,,pending
+897,PORT HARCOURT,hp laptop,450000.0,1.0,,failed
+898,ABUJA,airpods,120000.0,1.0,2024-11-10,pending
+899,LAGOS,iphone x,120000.0,1.0,,pending
+900,PORT HARCOURT,hp laptop,120000.0,1.0,,failed
+901,JOS,airpods,250000.0,3.0,,failed
+902,ENUGU,infinix phone,120.0,3.0,,pending
+903,ABUJA,airpods,35000.0,3.0,,failed
+904,KADUNA,airpods,150000.0,1.0,,paid
+905,ABUJA,samsung phone,250000.0,1.0,,failed
+906,ENUGU,airpods,120000.0,3.0,,pending
+907,LAGOS,iphone x,250000.0,1.0,,failed
+908,JOS,hp laptop,120000.0,3.0,,pending
+909,JOS,infinix phone,450.0,1.0,,pending
+910,LAGOS,hp laptop,35000.0,2.0,,paid
+911,LAGOS,samsung phone,250000.0,1.0,2024-10-13,paid
+912,JOS,iphone x,35000.0,3.0,,pending
+913,LAGOS,infinix phone,250.0,1.0,,pending
+914,ENUGU,infinix phone,35000.0,3.0,,paid
+915,ABUJA,hp laptop,120000.0,1.0,,failed
+916,ABUJA,hp laptop,150000.0,3.0,,pending
+917,PORT HARCOURT,samsung phone,150000.0,1.0,2024-10-18,paid
+918,LAGOS,iphone x,450.0,3.0,,pending
+919,KADUNA,iphone x,150000.0,1.0,,paid
+920,LAGOS,samsung phone,250000.0,1.0,,failed
+921,KADUNA,iphone x,250.0,1.0,,pending
+922,LAGOS,hp laptop,35.0,1.0,,paid
+923,KADUNA,infinix phone,450000.0,1.0,,pending
+924,JOS,hp laptop,250000.0,1.0,2024-10-17,pending
+925,KADUNA,iphone x,35.0,1.0,,failed
+926,JOS,iphone x,250000.0,1.0,,pending
+927,ENUGU,airpods,120000.0,1.0,2024-10-18,pending
+928,JOS,hp laptop,250000.0,1.0,,failed
+929,KADUNA,samsung phone,250000.0,1.0,,pending
+930,ENUGU,iphone x,250000.0,1.0,,paid
+931,ENUGU,samsung phone,450000.0,1.0,,pending
+932,ABUJA,infinix phone,250000.0,2.0,2024-10-06,pending
+933,KADUNA,samsung phone,35.0,1.0,,paid
+934,ABUJA,iphone x,250000.0,3.0,,failed
+935,LAGOS,infinix phone,250.0,1.0,,pending
+936,LAGOS,hp laptop,250000.0,1.0,,pending
+937,ENUGU,hp laptop,35.0,3.0,,paid
+938,ABUJA,iphone x,250.0,2.0,,failed
+939,PORT HARCOURT,samsung phone,120000.0,1.0,2024-10-24,paid
+940,ENUGU,infinix phone,35000.0,2.0,,pending
+941,JOS,hp laptop,150000.0,3.0,,pending
+942,KADUNA,iphone x,120.0,1.0,,paid
+943,PORT HARCOURT,samsung phone,35000.0,1.0,,paid
+944,KADUNA,iphone x,150000.0,1.0,,paid
+945,PORT HARCOURT,infinix phone,120000.0,1.0,,paid
+946,ENUGU,samsung phone,450000.0,1.0,,pending
+947,ABUJA,iphone x,150000.0,2.0,2024-10-23,pending
+948,LAGOS,hp laptop,120000.0,1.0,2024-10-04,pending
+949,LAGOS,hp laptop,120.0,1.0,,paid
+950,KADUNA,iphone x,450000.0,1.0,,pending
+951,KADUNA,infinix phone,120000.0,1.0,,paid
+952,KADUNA,iphone x,35000.0,1.0,,pending
+953,ABUJA,samsung phone,35.0,2.0,,failed
+954,LAGOS,hp laptop,120000.0,3.0,,paid
+955,ENUGU,iphone x,150000.0,1.0,,pending
+956,KADUNA,iphone x,120.0,1.0,,pending
+957,KADUNA,infinix phone,250000.0,1.0,,pending
+958,ABUJA,hp laptop,35000.0,2.0,,paid
+959,ABUJA,iphone x,150000.0,2.0,2024-10-03,paid
+960,ENUGU,airpods,450.0,1.0,,failed
+961,LAGOS,infinix phone,450.0,1.0,,failed
+962,LAGOS,samsung phone,250000.0,3.0,,paid
+963,KADUNA,infinix phone,250000.0,1.0,,failed
+964,LAGOS,hp laptop,450000.0,2.0,,paid
+965,LAGOS,hp laptop,35.0,1.0,2024-10-31,pending
+966,LAGOS,hp laptop,250000.0,3.0,2024-10-01,pending
+967,KADUNA,iphone x,450.0,2.0,2024-11-16,paid
+968,ENUGU,airpods,450000.0,3.0,,paid
+969,LAGOS,infinix phone,150000.0,1.0,,paid
+970,ENUGU,iphone x,450.0,2.0,,pending
+971,LAGOS,samsung phone,150000.0,3.0,2024-10-09,failed
+972,ENUGU,infinix phone,250.0,1.0,,pending
+973,LAGOS,hp laptop,250000.0,1.0,2024-10-18,pending
+974,PORT HARCOURT,airpods,450.0,1.0,2024-11-01,paid
+975,KADUNA,infinix phone,120000.0,1.0,,paid
+976,ABUJA,iphone x,250000.0,3.0,,pending
+977,ABUJA,hp laptop,35000.0,1.0,,failed
+978,PORT HARCOURT,samsung phone,450.0,1.0,2024-10-12,failed
+979,LAGOS,iphone x,450.0,1.0,,pending
+980,KADUNA,samsung phone,120.0,1.0,,paid
+981,LAGOS,iphone x,35.0,1.0,,paid
+982,LAGOS,samsung phone,450000.0,1.0,,pending
+983,LAGOS,hp laptop,450000.0,3.0,,paid
+984,PORT HARCOURT,hp laptop,250000.0,1.0,2024-10-26,failed
+985,ENUGU,airpods,150.0,1.0,2024-10-05,paid
+986,JOS,iphone x,450000.0,1.0,,pending
+987,ENUGU,samsung phone,450000.0,1.0,,failed
+988,PORT HARCOURT,airpods,250000.0,2.0,2024-11-23,pending
+989,ENUGU,hp laptop,150.0,2.0,,pending
+990,ENUGU,samsung phone,450000.0,2.0,,paid
+991,PORT HARCOURT,hp laptop,150000.0,2.0,,failed
+992,JOS,airpods,150000.0,1.0,,failed
+993,PORT HARCOURT,hp laptop,250000.0,2.0,2024-11-27,pending
+994,ABUJA,iphone x,120000.0,1.0,,pending
+995,KADUNA,hp laptop,150000.0,1.0,,failed
+996,ABUJA,infinix phone,450.0,1.0,2024-11-20,failed
+997,LAGOS,hp laptop,120000.0,1.0,,failed
+998,KADUNA,samsung phone,35000.0,1.0,2024-11-08,failed
+999,LAGOS,samsung phone,35.0,1.0,2024-11-16,pending
+1000,ENUGU,samsung phone,120.0,1.0,,paid
